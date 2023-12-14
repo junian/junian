@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Junian.
+
+I am a Software Engineer with 10+ years of experience.
+
+You can visit my website on [junian.dev](https://www.junian.dev).
+
+Thank you!
+
 <!--
 **junian/junian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
