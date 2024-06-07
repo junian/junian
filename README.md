@@ -2,8 +2,8 @@
 
 I'm **Junian** the **Software Engineer** with **10+** years of experience.
 
-[![Junian GitHub account](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white "Junian GitHub Account")](https://github.com/junian)
-[![Hire Junian on Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white "Hire Junian on Upwork")](https://www.junian.dev/upwork/)
+[![Junian Dev Website](https://img.shields.io/badge/Website-1a73e8?style=for-the-badge&logo=googlechrome&logoColor=white "Junian Dev Website")](https://www.junian.dev/)
+[![Hire Junian on Upwork](https://img.shields.io/badge/UpWork-14a800?style=for-the-badge&logo=upwork&logoColor=white "Hire Junian on Upwork")](https://www.junian.dev/upwork/)
 
 
 ## 📊 Stats
