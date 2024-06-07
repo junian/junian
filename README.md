@@ -8,7 +8,7 @@ I'm **Junian** the **Software Engineer** with **10+** years of experience.
 
 ## 📊 Stats
 
-![](https://github-readme-stats.vercel.app/api?username=junian&theme=default&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=junian&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=junian&theme=default&hide_border=false)
 
