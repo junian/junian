@@ -5,7 +5,8 @@ I'm **Junian** the **Software Engineer** with **10+** years of experience.
 I'm open to freelance work. Feel free to [contact me](https://www.upwork.com/freelancers/junian)!
 
 [![Junian Dev Website](https://img.shields.io/badge/Website-1a73e8?style=for-the-badge&logo=googlechrome&logoColor=white "Junian Dev Website")](https://www.junian.dev/)
-[![Junian YouTube](https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white "Junian YouTube Channel")](https://www.youtube.com/@juniandotnet)
+[![Junian YouTube](https://img.shields.io/youtube/channel/subscribers/UCepvZYlW1tWJ8bu3dWLQh2w?style=for-the-badge&logo=youtube&label=YouTube&labelColor=ff0000&color=555555
+ "Junian YouTube Channel")](https://www.youtube.com/@juniandotnet)
 
 <!--
 [![Hire Junian on Upwork](https://img.shields.io/badge/UpWork-14a800?style=for-the-badge&logo=upwork&logoColor=white "Hire Junian on Upwork")](https://www.junian.dev/upwork/)
