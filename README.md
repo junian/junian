@@ -2,7 +2,9 @@
 
 I'm **Junian** the **Software Engineer** with **10+** years of experience.
 
+<!--
 I'm open to freelance work. Feel free to [contact me](https://www.upwork.com/freelancers/junian)!
+-->
 
 [![Junian Dev Website](https://img.shields.io/badge/Website-1a73e8?style=for-the-badge&logo=googlechrome&logoColor=white "Junian Dev Website")](https://www.junian.dev/)
 [![Junian Dev Tech Blog](https://img.shields.io/badge/Tech_Blog-1a73e8?style=for-the-badge&logo=hugo&logoColor=white "Junian Dev Tech Blog")](https://www.junian.net/)
