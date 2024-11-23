@@ -7,16 +7,14 @@ I'm **Junian** the **Experienced Software Engineer** from [East Java](https://en
 [![Junian YouTube](https://img.shields.io/youtube/channel/views/UCepvZYlW1tWJ8bu3dWLQh2w?style=for-the-badge&logo=youtube&label=YouTube&labelColor=ff0000&color=555555
  "Junian YouTube Channel")](https://www.youtube.com/@JunianDev?sub_confirmation=1)
 
-📝 My coding adventures primarily happen in C and Java-based languages, but I like to mix it up with C++, C#, JavaScript, TypeScript, Dart, and more. I also like Python.
-
-🌍 I can speak 3 languages: English, Indonesian, and [Javanese](https://en.wikipedia.org/wiki/Javanese_language). Bonus: I can also scribble in the [Javanese Script](https://en.wikipedia.org/wiki/Javanese_script).
-
-☕️ As you can guess, my favorite cup of coffee is Java Arabica, no cream and sugar—just the way I like it.
-
-🌞 Fun fact: Every morning, I take out the trash from my house, making me a real-life Java Garbage Collector.
-
-❤️ While I enjoy playing the field with many programming languages, **C#** has a special place in my heart.
-
+- 📝 I like writing code in [C-family languages](https://en.wikipedia.org/wiki/List_of_C-family_programming_languages) such as C, C++, C#, Java, JavaScript, TypeScript, Dart, Go, and more. I also like Python.
+- ❤️ [**C#**](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) has a special place in my heart as my favorite programming language.
+- 🌍 I can speak 3 languages: English, Indonesian, and [Javanese](https://en.wikipedia.org/wiki/Javanese_language). Bonus: I can also scribble in the [Javanese Script](https://en.wikipedia.org/wiki/Javanese_script).
+- ☕️ As you can guess, my favorite cup of coffee is Java Arabica, no cream and sugar—just the way I like it.
+- 🌞 Fun fact: Every morning, I take out the trash from my house, making me a real-life [Java Garbage Collector](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)#Java).
+- 🎮 I'm currently playing [Final Fantasy Pixel Remaster](https://finalfantasypixelremaster.square-enix-games.com/en_GB/) on my Steam Deck.
+- 📖 I'm currently reading [Naruto](https://en.wikipedia.org/wiki/Naruto) on my Kindle.
+  
 <!--
 I'm open to freelance work. Feel free to [contact me](https://www.upwork.com/freelancers/junian)!
 -->
