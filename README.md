@@ -7,7 +7,7 @@ I'm **Junian** the **Experienced Software Engineer** from [East Java](https://en
 [![Junian YouTube](https://img.shields.io/youtube/channel/views/UCepvZYlW1tWJ8bu3dWLQh2w?style=for-the-badge&logo=youtube&label=YouTube&labelColor=ff0000&color=555555
  "Junian YouTube Channel")](https://www.youtube.com/@JunianDev?sub_confirmation=1)
 
-- 📝 I like writing code in [C-family languages](https://en.wikipedia.org/wiki/List_of_C-family_programming_languages) such as C, C++, C#, Java, JavaScript, TypeScript, Dart, Go, and more. I also like Python.
+- 📝 I like writing code in [C-family languages](https://en.wikipedia.org/wiki/List_of_C-family_programming_languages) such as C, C++, C#, Java, Kotlin, JavaScript, TypeScript, Dart, Go, and more. I also like Python.
 - ❤️ [**C#**](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) has a special place in my heart as my favorite programming language.
 - 🌍 I can speak 3 languages: English, Indonesian, and [Javanese](https://en.wikipedia.org/wiki/Javanese_language). Bonus: I can also scribble in the [Javanese Script](https://en.wikipedia.org/wiki/Javanese_script).
 - ☕️ As you can guess, my favorite cup of coffee is Java Arabica, no cream and sugar—just the way I like it.
