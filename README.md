@@ -13,7 +13,12 @@ I'm **Junian** the **Experienced Software Engineer** from [East Java](https://en
 - Fun fact: Every morning, I take out the trash from my house, making me a real-life [Java Garbage Collector](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)#Java).
 - I'm currently playing [Final Fantasy II Pixel Remaster](https://finalfantasypixelremaster.square-enix-games.com/en_GB/) on my Steam Deck.
 - I'm currently reading [Naruto](https://en.wikipedia.org/wiki/Naruto) on my Kindle.
-  
+
+### 📝 Recent Blog Posts
+<!-- feed start -->
+<!-- feed end -->
+- [See More ...](https://www.junian.net/)
+
 <!--
 I'm open to freelance work. Feel free to [contact me](https://www.upwork.com/freelancers/junian)!
 -->
