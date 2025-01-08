@@ -22,7 +22,7 @@ I'm **Junian** the **Experienced Software Engineer** from [East Java](https://en
 - Dec 19 - [How to Update Safari without macOS Upgrade](https://www.junian.net/tech/update-safari-without-macos-upgrade/)
 - Dec 17 - [Automating Git Cleanup Across Multiple Directories with a Shell Script](https://www.junian.net/dev/multiple-git-repos-cleanup/)
 <!-- feed end -->
-- [See More ...](https://www.junian.net/)
+[**[See More]**](https://www.junian.net/)
 
 <!--
 I'm open to freelance work. Feel free to [contact me](https://www.upwork.com/freelancers/junian)!
