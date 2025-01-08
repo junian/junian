@@ -16,7 +16,9 @@ jobs:
       - uses: sarisia/actions-readme-feed@v1
         id: feed
         with:
-          url: https://www.junian.net/index.xml
+          url: |
+            https://www.junian.net/dev/index.xml
+            https://www.junian.net/tech/index.xml
           file: 'README.md'
           timezone: 'Asia/Jakarta'
           ensure_all: true
