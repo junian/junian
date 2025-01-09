@@ -12,9 +12,6 @@ jobs:
       changed: ${{ steps.feed.outputs.changed }}
       items: ${{ steps.feed.outputs.items }}
     steps:
-      - uses: DenverCoder1/github-readme-youtube-cards@main
-        with:
-          channel_id: UCepvZYlW1tWJ8bu3dWLQh2w
       - uses: actions/checkout@v2
       - uses: sarisia/actions-readme-feed@v1
         id: feed
