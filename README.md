@@ -25,18 +25,6 @@ I'm **Junian** the **Experienced Software Engineer** from [East Java](https://en
 
 [**[See More]**](https://www.junian.net/)
 
-### 🎬 Recent Videos
-<!-- BEGIN YOUTUBE-CARDS -->
-[![How to Install MongoDB Community Edition on Ubuntu Server 24.04 | Beginners Friendly](https://ytcards.demolab.com/?id=WUUZcoyBnI0&title=How+to+Install+MongoDB+Community+Edition+on+Ubuntu+Server+24.04+%7C+Beginners+Friendly&lang=en&timestamp=1736316872&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to Install MongoDB Community Edition on Ubuntu Server 24.04 | Beginners Friendly")](https://www.youtube.com/watch?v=WUUZcoyBnI0)
-[![Learn HTML Forms by Building a Registration Form | A Walkthrough of freeCodeCamp | No Commentary](https://ytcards.demolab.com/?id=hAsFqy1dRJM&title=Learn+HTML+Forms+by+Building+a+Registration+Form+%7C+A+Walkthrough+of+freeCodeCamp+%7C+No+Commentary&lang=en&timestamp=1736308555&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Learn HTML Forms by Building a Registration Form | A Walkthrough of freeCodeCamp | No Commentary")](https://www.youtube.com/watch?v=hAsFqy1dRJM)
-[![Learn CSS Colors by Building a Set of Colored Markers | A freeCodeCamp Walkthrough | No Commentary](https://ytcards.demolab.com/?id=iqrHIz0nMHw&title=Learn+CSS+Colors+by+Building+a+Set+of+Colored+Markers+%7C+A+freeCodeCamp+Walkthrough+%7C+No+Commentary&lang=en&timestamp=1736238173&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Learn CSS Colors by Building a Set of Colored Markers | A freeCodeCamp Walkthrough | No Commentary")](https://www.youtube.com/watch?v=iqrHIz0nMHw)
-[![[60s Demo] MongoDB 8 CE Installation on Ubuntu 24.04](https://ytcards.demolab.com/?id=klubwDBVLNM&title=%5B60s+Demo%5D+MongoDB+8+CE+Installation+on+Ubuntu+24.04&lang=en&timestamp=1736204017&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "[60s Demo] MongoDB 8 CE Installation on Ubuntu 24.04")](https://www.youtube.com/watch?v=klubwDBVLNM)
-[![Learn Basic CSS by Building a Cafe Menu | A Walkthrough for freeCodeCamp | No Commentary Coding](https://ytcards.demolab.com/?id=9o6tG06eJMs&title=Learn+Basic+CSS+by+Building+a+Cafe+Menu+%7C+A+Walkthrough+for+freeCodeCamp+%7C+No+Commentary+Coding&lang=en&timestamp=1736169704&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Learn Basic CSS by Building a Cafe Menu | A Walkthrough for freeCodeCamp | No Commentary Coding")](https://www.youtube.com/watch?v=9o6tG06eJMs)
-[![How to change GitHub default branch to master](https://ytcards.demolab.com/?id=LsOjJxdO81Q&title=How+to+change+GitHub+default+branch+to+master&lang=en&timestamp=1735621656&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to change GitHub default branch to master")](https://www.youtube.com/watch?v=LsOjJxdO81Q)
-<!-- END YOUTUBE-CARDS -->
-
-[**[See More]**](https://youtube.com/@JunianDev)
-
 <!--
 I'm open to freelance work. Feel free to [contact me](https://www.upwork.com/freelancers/junian)!
 -->
