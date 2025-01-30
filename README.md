@@ -3,7 +3,7 @@
 I'm **Junian** the **Experienced Software Engineer** from [East Java](https://en.wikipedia.org/wiki/East_Java).
 
 [![Junian Dev Website](https://img.shields.io/badge/Website-1a73e8?style=for-the-badge&logo=googlechrome&logoColor=white "Junian Dev Website")](https://www.junian.dev/)
-[![Junian Dev Tech Blog](https://img.shields.io/badge/Tech_Blog-1a73e8?style=for-the-badge&logo=hugo&logoColor=white "Junian Dev Tech Blog")](https://www.junian.net/)
+[![Junian Dev Tech Blog](https://img.shields.io/badge/Tech_Blog-1a73e8?style=for-the-badge&logo=hugo&logoColor=white "Junian Dev Tech Blog")](https://www.junian.dev/blog/)
 [![Junian YouTube](https://img.shields.io/youtube/channel/views/UCepvZYlW1tWJ8bu3dWLQh2w?style=for-the-badge&logo=youtube&label=YouTube&labelColor=ff0000&color=555555
  "Junian YouTube Channel")](https://www.youtube.com/@JunianDev)
 
