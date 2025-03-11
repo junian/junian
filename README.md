@@ -16,7 +16,7 @@ I'm **Junian** the **Experienced Software Engineer** from [East Java](https://en
 ### 📝 Recent Blog Posts
 <!-- feed start -->
 - Mar 10 - [Git Pull 'Rebase in Progress' Issue](https://www.junian.net/dev/git-pull-rebase-in-progress/)
-- Mar 09 - [WinForms 32-bit 'Designer Could Not Be Shown' Issue](https://www.junian.net/dev/vb-dotnet-winforms-32bit/)
+- Mar 09 - [WinForms 32-bit 'Designer Could Not Be Shown' Issue](https://www.junian.net/dev/dotnet-winforms-32bit-designer-issue/)
 - Feb 13 - [Solving the Xamarin.Forms iOS 'Could Not Load the Framework IDEDistribution' Issue](https://www.junian.net/dev/xamarin-forms-ios-framework-idedistribution-issue/)
 - Feb 13 - [freeCodeCamp Responsive Web Design Learning Journey](https://www.junian.net/dev/learn-freecodecamp-responsive-web-design/)
 - Jan 29 - [Elevate Your Tech Business: Building a Powerful Social Media Presence with Adobe Express](https://www.junian.net/tech/building-a-powerful-social-media-presence-with-adobe-express/)
