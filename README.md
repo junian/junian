@@ -13,11 +13,11 @@ I'm **Junian** the **Experienced Software Engineer** from [East Java](https://en
 
 ### 📝 Recent Blog Posts
 <!-- feed start -->
+- Aug 21 - [Microsoft SQL Server Developer Downloads (2022, 2019, 2017)](https://www.junian.net/dev/microsoft-sql-server-developer-edition-download-links/)
 - Jul 31 - [Free Courses with Credly Badges](https://www.junian.net/tech/free-credly-badges/)
-- Jul 15 - [Visual Studio Community Downloads - 2022, 2019, 2017, 2015](https://www.junian.net/dev/visual-studio-community-download-links/)
+- Jul 15 - [Visual Studio Community Downloads (2022, 2019, 2017, 2015)](https://www.junian.net/dev/visual-studio-community-download-links/)
 - Mar 10 - [Git Pull 'Rebase in Progress' Issue](https://www.junian.net/dev/git-pull-rebase-in-progress/)
 - Mar 09 - [WinForms 32-bit 'Designer Could Not Be Shown' Issue](https://www.junian.net/dev/dotnet-winforms-32bit-designer-issue/)
-- Feb 13 - [Solving the Xamarin.Forms iOS 'Could Not Load the Framework IDEDistribution' Issue](https://www.junian.net/dev/xamarin-forms-ios-framework-idedistribution-issue/)
 <!-- feed end -->
 
 [**[See More]**](https://www.junian.net/)
