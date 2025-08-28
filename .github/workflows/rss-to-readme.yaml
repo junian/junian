@@ -20,7 +20,7 @@ jobs:
             https://www.junian.net/dev/index.xml
             https://www.junian.net/tech/index.xml
           file: 'README.md'
-          format: '- [${title}](${url}) <sub>${monthlong} ${02day}, {year}</sub>'
+          format: '- [${title}](${url}) <sub>${monthlong} ${02day}, ${year}</sub>'
           timezone: 'Asia/Jakarta'
           ensure_all: true
       - name: push to master
