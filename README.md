@@ -20,7 +20,12 @@ I'm **Junian** the **Experienced Software Engineer** from [East Java](https://en
 - Mar 10 - [Git Pull 'Rebase in Progress' Issue](https://www.junian.net/dev/git-pull-rebase-in-progress/)
 <!-- feed end -->
 
-[**[See More]**](https://www.junian.net/)
+> <details>
+>  <summary><strong>See more ...</strong></summary>
+> 
+> [https://junian.dev/](https://www.junian.net/)
+> 
+> </details>
 
 <!--
 I'm open to freelance work. Feel free to [contact me](https://www.upwork.com/freelancers/junian)!
