@@ -18,6 +18,11 @@ I'm **Junian** the **Experienced Software Engineer** from [East Java](https://en
 - [Free Courses with Credly Badges](https://www.junian.net/tech/free-credly-badges/) <sub>July 31, 2025</sub>
 - [Visual Studio Community Downloads (2022, 2019, 2017, 2015)](https://www.junian.net/dev/visual-studio-community-download-links/) <sub>July 15, 2025</sub>
 - [Git Pull 'Rebase in Progress' Issue](https://www.junian.net/dev/git-pull-rebase-in-progress/) <sub>March 10, 2025</sub>
+- [WinForms 32-bit 'Designer Could Not Be Shown' Issue](https://www.junian.net/dev/dotnet-winforms-32bit-designer-issue/) <sub>March 09, 2025</sub>
+- [Solving the Xamarin.Forms iOS 'Could Not Load the Framework IDEDistribution' Issue](https://www.junian.net/dev/xamarin-forms-ios-framework-idedistribution-issue/) <sub>February 13, 2025</sub>
+- [freeCodeCamp Responsive Web Design Learning Journey](https://www.junian.net/dev/learn-freecodecamp-responsive-web-design/) <sub>February 13, 2025</sub>
+- [Elevate Your Tech Business: Building a Powerful Social Media Presence with Adobe Express](https://www.junian.net/tech/building-a-powerful-social-media-presence-with-adobe-express/) <sub>January 29, 2025</sub>
+- [How I Accidentally Discovered Crypto-Miner Malware (perfctl) on an Ubuntu Server](https://www.junian.net/tech/ubuntu-perfctl-malware-mongodb-not-running/) <sub>January 03, 2025</sub>
 <!-- feed end -->
 
 > [**See more ...**](https://www.junian.net/)
