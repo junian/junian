@@ -22,6 +22,7 @@ jobs:
           file: 'README.md'
           format: '- [${title}](${url}) <sub>${monthlong} ${02day}, ${year}</sub>'
           timezone: 'Asia/Jakarta'
+          max_entry: 10
           ensure_all: true
       - name: push to master
         if: steps.feed.outputs.changed == true
