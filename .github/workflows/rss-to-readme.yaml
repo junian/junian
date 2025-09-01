@@ -29,8 +29,7 @@ jobs:
       - uses: sarisia/actions-readme-feed@v1
         id: youtube-feed
         with:
-          url: |
-            https://www.youtube.com/feeds/videos.xml?channel_id=UCepvZYlW1tWJ8bu3dWLQh2w
+          url: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCepvZYlW1tWJ8bu3dWLQh2w'
           file: 'README.md'
           format: '- [${title}](${url}) <sub>${monthlong} ${02day}, ${year}</sub>'
           timezone: 'Asia/Jakarta'
