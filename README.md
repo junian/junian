@@ -14,11 +14,11 @@ I'm **Junian** the **Experienced Software Engineer** from [East Java](https://en
 ### 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [FiberHome GPON ONU Router / Modem Default Admin Password](https://www.junian.net/tech/fiberhome-gpon-onu-router-admin-password/) <sub>September 02, 2025</sub>
 - [Microsoft SQL Server Express Downloads (2022, 2019, 2017)](https://www.junian.net/dev/microsoft-sql-server-express-download-links/) <sub>August 25, 2025</sub>
 - [Microsoft SQL Server Developer Downloads (2022, 2019, 2017)](https://www.junian.net/dev/microsoft-sql-server-developer-edition-download-links/) <sub>August 21, 2025</sub>
 - [Free Courses with Credly Badges](https://www.junian.net/tech/free-credly-badges/) <sub>July 31, 2025</sub>
 - [Visual Studio Community Downloads (2022, 2019, 2017, 2015)](https://www.junian.net/dev/visual-studio-community-download-links/) <sub>July 15, 2025</sub>
-- [Git Pull 'Rebase in Progress' Issue](https://www.junian.net/dev/git-pull-rebase-in-progress/) <sub>March 10, 2025</sub>
 <!-- blog feed end -->
 
 > [**See more ...**](https://www.junian.net/)
