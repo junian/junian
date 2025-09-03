@@ -1,3 +1,5 @@
+<div align="center">
+ 
 ## 👋 Hello, World!
 
 I'm **Junian** the **Experienced Software Engineer** from [East Java](https://en.wikipedia.org/wiki/East_Java).
@@ -6,6 +8,10 @@ I'm **Junian** the **Experienced Software Engineer** from [East Java](https://en
 [![Junian Dev Tech Blog](https://img.shields.io/badge/Tech_Blog-1a73e8?style=for-the-badge&logo=hugo&logoColor=white "Junian Dev Tech Blog")](https://www.junian.dev/blog/)
 [![Junian YouTube](https://img.shields.io/youtube/channel/views/UCepvZYlW1tWJ8bu3dWLQh2w?style=for-the-badge&logo=youtube&label=YouTube&labelColor=ff0000&color=555555
  "Junian YouTube Channel")](https://www.youtube.com/@JunianDev)
+
+</div>
+
+## 🧑‍💻 About Me
 
 - I like writing code in [C-family languages](https://en.wikipedia.org/wiki/List_of_C-family_programming_languages) with **C#** and **TypeScript** as my favorite.
 - I can speak 3 languages: English, Indonesian, and [Javanese](https://en.wikipedia.org/wiki/Javanese_language). Bonus: I can also scribble in the [Javanese Script](https://en.wikipedia.org/wiki/Javanese_script).
