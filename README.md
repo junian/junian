@@ -27,10 +27,10 @@ I'm **Junian** the **Experienced Software Engineer** from [East Java](https://en
 
 <!-- youtube feed start -->
 - [Learn Typography by Building a Nutrition Label | A Walkthrough for freeCodeCamp | No Commentary](https://www.youtube.com/watch?v=emt78pRLr3Y) <sub>February 12, 2025</sub>
-- [Joining Apple Intelligence iOS 18.1 waitlist #ios #iphone #appleintelligence](https://www.youtube.com/watch?v=LiekVpfLnxo) <sub>January 11, 2025</sub>
 - [Learn CSS Flexbox by Building a Photo Gallery | A Walkthrough for freeCodeCamp | No Commentary](https://www.youtube.com/watch?v=XRZfAuPShX0) <sub>January 10, 2025</sub>
 - [Learn the CSS Box Model by Building a Rothko Painting | A Walkthrough for freeCodeCamp | No Comment](https://www.youtube.com/watch?v=KoAPQniuKP0) <sub>January 10, 2025</sub>
 - [How to Install MongoDB Community Edition on Ubuntu Server 24.04 | Beginners Friendly](https://www.youtube.com/watch?v=WUUZcoyBnI0) <sub>January 08, 2025</sub>
+- [Learn HTML Forms by Building a Registration Form | A Walkthrough of freeCodeCamp | No Commentary](https://www.youtube.com/watch?v=hAsFqy1dRJM) <sub>January 08, 2025</sub>
 <!-- youtube feed end -->
 
 > [**See more ...**](https://www.junian.net/yt/)
