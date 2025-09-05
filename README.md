@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Animated_metronome_cropped_transparent.svg" width="128" />
+
 # 👋 Hello, World!
 
 I'm **Junian** the **Experienced Software Engineer** from [East Java](https://en.wikipedia.org/wiki/East_Java).
