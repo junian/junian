@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Animated_metronome_cropped_transparent.svg" width="96" />
+<img src="./img/animated_metronome_cropped_transparent.svg" width="96" />
 
 # 👋 Hello, World!
 
