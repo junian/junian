@@ -24,11 +24,11 @@ I'm **Junian** the **Experienced Software Engineer** from [East Java](https://en
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [How to Install Multiple .NET Versions on macOS with Homebrew](https://www.junian.net/dev/install-multiple-dotnet-macos-homebrew/) <sub>September 26, 2025</sub>
 - [How to Fix Git Refusing to Merge Unrelated Histories Issue](https://www.junian.net/dev/git-refusing-to-merge-unrelated-histories/) <sub>September 26, 2025</sub>
 - [A Simple Mathematical Expression Tokenizer in C++](https://www.junian.net/dev/cpp-math-expression-tokenizer/) <sub>September 16, 2025</sub>
 - [Fixing exFAT Drives on macOS](https://www.junian.net/tech/macos-fix-exfat/) <sub>September 13, 2025</sub>
 - [Batman Math Equation](https://www.junian.net/tech/batman-math-equation/) <sub>September 12, 2025</sub>
-- [How to Fix a Corrupted Video with FFmpeg](https://www.junian.net/tech/ffmpeg-fix-corrupted-video/) <sub>September 11, 2025</sub>
 <!-- blog feed end -->
 
 > [**See more ...**](https://www.junian.net/)
