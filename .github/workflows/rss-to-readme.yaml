@@ -8,9 +8,6 @@ on:
 jobs:
   readme:
     runs-on: ubuntu-latest
-    outputs:
-      changed: ${{ steps.feed.outputs.changed }}
-      items: ${{ steps.feed.outputs.items }}
     steps:
       - uses: actions/checkout@v4
       - uses: sarisia/actions-readme-feed@v1
@@ -51,7 +48,6 @@ jobs:
           end_flag: '<!-- youtube feed end -->'
           ensure_all: true
       - name: Commit changes if any
-        if: steps.blog-feed.outputs.changed == true || steps.youtube-feed.outputs.changed == true
         id: commit
         run: |
           git config --global user.name "github-actions[bot]"
