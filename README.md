@@ -43,4 +43,4 @@ I'm **Junian** the **Experienced Software Engineer** from [East Java](https://en
 - [Learn HTML Forms by Building a Registration Form - A Walkthrough of freeCodeCamp - No Commentary](https://www.youtube.com/watch?v=hAsFqy1dRJM) <sub>January 08, 2025</sub>
 <!-- youtube feed end -->
 
-> [**See more ...**](https://www.junian.net/yt/)
+> [**See more**](/youtube/)
