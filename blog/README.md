@@ -1,4 +1,110 @@
 ## Tech Blog
 
 <!-- feed start -->
+- [Upgrading Flutter Android App to Target SDK 35 Troubleshooting](https://www.junian.net/dev/flutter-android-sdk-35-upgrade/) <sub>September 30, 2025</sub>
+- [GitHub Actions Bot Username and Email Address](https://www.junian.net/dev/github-actions-bot-username-email-address/) <sub>September 29, 2025</sub>
+- [How to Allow Underscore Headers in Nginx](https://www.junian.net/dev/nginx-allow-underscore-header/) <sub>September 28, 2025</sub>
+- [Run a .NET App from a Single C# File](https://www.junian.net/dev/dotnet-run-csharp-app/) <sub>September 27, 2025</sub>
+- [Installing Multiple .NET Versions on macOS with Homebrew](https://www.junian.net/dev/install-multiple-dotnet-macos-homebrew/) <sub>September 26, 2025</sub>
+- [How to Fix Git Refusing to Merge Unrelated Histories Issue](https://www.junian.net/dev/git-refusing-to-merge-unrelated-histories/) <sub>September 25, 2025</sub>
+- [A Simple Mathematical Expression Tokenizer in C++](https://www.junian.net/dev/cpp-math-expression-tokenizer/) <sub>September 16, 2025</sub>
+- [Fixing exFAT Drives on macOS](https://www.junian.net/tech/macos-fix-exfat/) <sub>September 13, 2025</sub>
+- [Batman Math Equation](https://www.junian.net/tech/batman-math-equation/) <sub>September 12, 2025</sub>
+- [How to Fix a Corrupted Video with FFmpeg](https://www.junian.net/tech/ffmpeg-fix-corrupted-video/) <sub>September 11, 2025</sub>
+- [Visual Studio Community Downloads - 2026, 2022, 2019, 2017, 2015](https://www.junian.net/dev/visual-studio-community-download-links/) <sub>September 10, 2025</sub>
+- [How to Set the Default GitHub Branch to 'master'](https://www.junian.net/dev/github-master-branch/) <sub>September 09, 2025</sub>
+- [How to Uninstall Old .NET SDK and Runtime Versions on macOS](https://www.junian.net/dev/dotnet-sdk-runtime-macos-removal/) <sub>September 08, 2025</sub>
+- [How to Fix 'gpg: decryption failed: No pinentry' on macOS](https://www.junian.net/tech/macos-gpg-decryption-failed-no-pinentry/) <sub>September 07, 2025</sub>
+- [Speedtest CLI: Resolving HTTP Error 403 Forbidden](https://www.junian.net/tech/speedtest-http-error-403-forbidden/) <sub>September 06, 2025</sub>
+- [SVN Cheat Sheet](https://www.junian.net/dev/svn-cheat-sheet/) <sub>September 05, 2025</sub>
+- [Local Area Network (LAN) Bandwidth Speed Test](https://www.junian.net/tech/local-area-network-bandwidth-speed-test/) <sub>September 04, 2025</sub>
+- [FiberHome GPON ONU Router / Modem Default Admin Password](https://www.junian.net/tech/fiberhome-gpon-onu-router-admin-password/) <sub>September 02, 2025</sub>
+- [Microsoft SQL Server Express Downloads (2022, 2019, 2017)](https://www.junian.net/dev/microsoft-sql-server-express-download-links/) <sub>August 25, 2025</sub>
+- [Microsoft SQL Server Developer Downloads (2022, 2019, 2017)](https://www.junian.net/dev/microsoft-sql-server-developer-edition-download-links/) <sub>August 21, 2025</sub>
+- [Free Courses with Credly Badges](https://www.junian.net/tech/free-credly-badges/) <sub>July 31, 2025</sub>
+- [Git Pull 'Rebase in Progress' Issue](https://www.junian.net/dev/git-pull-rebase-in-progress/) <sub>March 10, 2025</sub>
+- [WinForms 32-bit 'Designer Could Not Be Shown' Issue](https://www.junian.net/dev/dotnet-winforms-32bit-designer-issue/) <sub>March 09, 2025</sub>
+- [Solving the Xamarin.Forms iOS 'Could Not Load the Framework IDEDistribution' Issue](https://www.junian.net/dev/xamarin-forms-ios-framework-idedistribution-issue/) <sub>February 13, 2025</sub>
+- [freeCodeCamp Responsive Web Design Learning Journey](https://www.junian.net/dev/learn-freecodecamp-responsive-web-design/) <sub>February 13, 2025</sub>
+- [Elevate Your Tech Business: Building a Powerful Social Media Presence with Adobe Express](https://www.junian.net/tech/building-a-powerful-social-media-presence-with-adobe-express/) <sub>January 29, 2025</sub>
+- [How I Accidentally Discovered Crypto-Miner Malware (perfctl) on an Ubuntu Server](https://www.junian.net/tech/ubuntu-perfctl-malware-mongodb-not-running/) <sub>January 03, 2025</sub>
+- [How to Use TP-Link Tether Without a TP-Link ID](https://www.junian.net/tech/tp-link-tether-without-tp-link-id/) <sub>December 23, 2024</sub>
+- [How to Call ChatGPT with the Google Voice App](https://www.junian.net/tech/google-voice-chatgpt-call/) <sub>December 22, 2024</sub>
+- [How to Update Safari without macOS Upgrade](https://www.junian.net/tech/update-safari-without-macos-upgrade/) <sub>December 19, 2024</sub>
+- [Automating Git Cleanup Across Multiple Directories with a Shell Script](https://www.junian.net/dev/multiple-git-repos-cleanup/) <sub>December 17, 2024</sub>
+- [How to Fix 'File Access Denied' Issue on Windows](https://www.junian.net/tech/windows-fix-file-access-denied/) <sub>November 21, 2024</sub>
+- [How to Run Brave Browser without CORS Restriction](https://www.junian.net/dev/brave-disable-cors/) <sub>November 18, 2024</sub>
+- [How to Run Safari Browser without CORS Restriction](https://www.junian.net/dev/safari-disable-cors/) <sub>November 17, 2024</sub>
+- [How to Run Microsoft Edge without CORS Restriction](https://www.junian.net/dev/microsoft-edge-disable-cors/) <sub>October 25, 2024</sub>
+- [Removing Full-Screen Intent Permission from Flutter Android](https://www.junian.net/dev/flutter-android-remove-permission-use-full-screen-intent/) <sub>October 12, 2024</sub>
+- [Xcode Command Line Tools Installation FAQ](https://www.junian.net/dev/xcode-command-line-tools-installation-faq/) <sub>October 10, 2024</sub>
+- [How to Ensure Rosetta 2 is Installed on macOS](https://www.junian.net/dev/macos-install-rosetta-2/) <sub>October 09, 2024</sub>
+- [How to Unzip Multiple Files with Command Line](https://www.junian.net/tech/unzip-cli-multiple-files/) <sub>October 08, 2024</sub>
+- [Robots.txt Rules to Block LLM AI like ChatGPT from Crawling Your Web Content](https://www.junian.net/tech/robots-txt-block-llm-ai-gpt/) <sub>October 08, 2024</sub>
+- [How to Run Google Chrome without CORS Restriction](https://www.junian.net/dev/google-chrome-disable-cors/) <sub>October 07, 2024</sub>
+- [Toyota Rush Key Battery Replacement](https://www.junian.net/tech/toyota-rush-key-battery-replacement/) <sub>October 04, 2024</sub>
+- [Apple AirTag Battery Replacement](https://www.junian.net/tech/apple-airtag-battery-replacement/) <sub>October 04, 2024</sub>
+- [Installing AUTOMATIC1111 Stable Diffusion Web UI on macOS with Apple Silicon](https://www.junian.net/tech/macos-install-stable-diffusion-webui/) <sub>October 02, 2024</sub>
+- [Add a Password-protected SMB Share to VLC for Android](https://www.junian.net/tech/android-vlc-smb-share/) <sub>September 24, 2024</sub>
+- [How to Install ALL Google Fonts on macOS](https://www.junian.net/tech/macos-google-fonts/) <sub>September 15, 2024</sub>
+- [How to Install CasaOS on macOS](https://www.junian.net/tech/macos-install-casaos/) <sub>September 14, 2024</sub>
+- [How to Install Docker Desktop on macOS with a Package Manager](https://www.junian.net/tech/macos-install-docker/) <sub>September 14, 2024</sub>
+- [How to Fix Samsung Galaxy Showing Unknown Phone Number](https://www.junian.net/tech/fix-samsung-galaxy-unknown-phone-number/) <sub>September 12, 2024</sub>
+- [How to Install Homebrew Package Manager on macOS](https://www.junian.net/tech/macos-install-homebrew/) <sub>September 12, 2024</sub>
+- [Folder Browser Dialog on Windows with C#](https://www.junian.net/dev/csharp-open-folder-dialog/) <sub>May 05, 2024</sub>
+- [Can't Open Form [Design] View in WinForms Project](https://www.junian.net/dev/winforms-unable-open-design-view/) <sub>May 05, 2024</sub>
+- [Mac to PC: How to Use the 'open' Command in Windows](https://www.junian.net/tech/windows-open-command-like-macos/) <sub>April 29, 2024</sub>
+- [VSCode Avalonia Extension Download .NET Runtime Issue](https://www.junian.net/dev/vscode-avalonia-requested-to-download-dotnet-runtime/) <sub>April 17, 2024</sub>
+- [Retrieving Keychain Passwords in Swift for macOS](https://www.junian.net/dev/swift-get-keychain-password/) <sub>April 17, 2024</sub>
+- [Deploy a .NET 8 Blazor Site to Cloudflare Pages](https://www.junian.net/dev/deploy-blazor-to-cloudflare-pages/) <sub>April 15, 2024</sub>
+- [How to Install AdGuard Home on Windows](https://www.junian.net/tech/windows-install-adguard-home/) <sub>March 21, 2024</sub>
+- [How to Enter an x86_64 Shell on macOS: A Guide for Apple Silicon Users](https://www.junian.net/dev/macos-x86_64-shell-from-arm64/) <sub>October 31, 2023</sub>
+- [How to Fix the 'zsh compinit: insecure directories' Error on macOS](https://www.junian.net/dev/macos-fix-zsh-compinit-insecure-directories/) <sub>October 30, 2023</sub>
+- [Disable Mail Notification from Cron](https://www.junian.net/tech/disable-cron-mail-notification/) <sub>January 14, 2021</sub>
+- [FFmpeg Batch Conversion with Powershell](https://www.junian.net/tech/powershell-ffmpeg-batch/) <sub>January 11, 2021</sub>
+- [How To Import and Manipulate Large Datasets in Python Using Pandas](https://www.junian.net/dev/python-pandas-large-datasets/) <sub>April 18, 2020</sub>
+- [How to Convert macOS Icon (.icns) to Image (.png)](https://www.junian.net/tech/icns-to-png/) <sub>April 07, 2020</sub>
+- [How to Fix Hugo JSON-LD Escaping Problem](https://www.junian.net/dev/hugo-fix-json-ld-escaping/) <sub>April 02, 2020</sub>
+- [String Comparison by Ignoring Case in C#](https://www.junian.net/dev/csharp-string-comparison-ignore-case/) <sub>April 02, 2020</sub>
+- [Take Screenshot from Video with FFmpeg](https://www.junian.net/tech/ffmpeg-video-screenshot/) <sub>April 02, 2020</sub>
+- [Fix Corrupted Zip Archive](https://www.junian.net/tech/cli-fix-corrupted-zip/) <sub>April 02, 2020</sub>
+- [Base64 String Encoding and Decoding in C#](https://www.junian.net/dev/csharp-base64-string-encode-decode/) <sub>March 31, 2020</sub>
+- ['Hello, World!' Program in C#](https://www.junian.net/dev/csharp-hello-world/) <sub>March 31, 2020</sub>
+- [How to Fix Mi / Redmi Airdots Connection and Pairing Problem](https://www.junian.net/tech/xiaomi-airdots-connection-troubleshooting/) <sub>March 30, 2020</sub>
+- [Vertical to Horizontal Video Conversion with Blur Sides by using FFmpeg](https://www.junian.net/tech/ffmpeg-vertical-video-blur/) <sub>March 29, 2020</sub>
+- [How to Fix Raspberry Pi Slow USB Drive Write Speed Problem](https://www.junian.net/tech/raspberry-pi-slow-usb-drive-write-speed/) <sub>March 28, 2020</sub>
+- [Wget File Download with Correct Name](https://www.junian.net/tech/wget-correct-name/) <sub>March 28, 2020</sub>
+- [Permanently Enable macOS Night Shift](https://www.junian.net/tech/macos-permanent-night-shift/) <sub>March 28, 2020</sub>
+- [How To Convert PSP ISO Games To CSO on Raspberry Pi](https://www.junian.net/tech/psp-iso-to-cso/) <sub>March 27, 2020</sub>
+- [How to Set Up Aria2 Download Manager with Web UI on Raspberry Pi](https://www.junian.net/tech/raspberry-pi-aria2-download-manager/) <sub>March 27, 2020</sub>
+- [Solving Netflix and Apple TV+ Flickering on macOS](https://www.junian.net/tech/macos-netflix-tv-flickering/) <sub>November 13, 2019</sub>
+- [Save C# Image Object into Oracle BLOB](https://www.junian.net/dev/csharp-image-to-oracle-blob/) <sub>November 13, 2019</sub>
+- [Delete macOS Local Time Machine Snapshots](https://www.junian.net/tech/delete-macos-local-time-machine-snapshots/) <sub>September 27, 2019</sub>
+- [Simple OpenVPN Server Set Up with Docker](https://www.junian.net/dev/docker-openvpn-server/) <sub>August 22, 2019</sub>
+- [Passwordless SSH Server on macOS](https://www.junian.net/dev/macos-ssh-server-no-password/) <sub>May 07, 2019</sub>
+- [QR Code Generation on Terminal](https://www.junian.net/dev/terminal-qr-code-generation/) <sub>April 16, 2019</sub>
+- [Text-Based Password Manager](https://www.junian.net/dev/text-based-password-manager/) <sub>April 16, 2019</sub>
+- [How to Create a Local Git Server](https://www.junian.net/dev/local-git-server/) <sub>April 15, 2019</sub>
+- [Full-Text RSS in Hugo](https://www.junian.net/dev/hugo-full-text-rss/) <sub>February 26, 2019</sub>
+- [Fixing 'Managed Debugging Assistant LoaderLock' Error](https://www.junian.net/dev/managed-debugging-assistant-loaderlock/) <sub>September 14, 2018</sub>
+- [Complete C# String Hash Functions](https://www.junian.net/dev/csharp-string-hash/) <sub>September 14, 2018</sub>
+- [Solving Sharepoint ClientContext Socket Exception in C#](https://www.junian.net/dev/sharepoint-clientcontext-socket-exception/) <sub>September 07, 2018</sub>
+- [Creating Xamarin.Mac App Distribution in DMG File](https://www.junian.net/dev/xamarin-mac-dmg-creation/) <sub>August 25, 2018</sub>
+- [Inserting an Ad Unit to Hugo Content without Shortcode](https://www.junian.net/dev/hugo-in-article-ad/) <sub>August 09, 2018</sub>
+- [Sharepoint CSOM Socket Exception](https://www.junian.net/dev/sharepoint-socket-exception/) <sub>August 06, 2018</sub>
+- [Wrap Image with Figure Tag on Hugo without Shortcode](https://www.junian.net/dev/hugo-image-figure-wrap/) <sub>August 05, 2018</sub>
+- [CMake Version 3 Installation on Ubuntu 14.04](https://www.junian.net/dev/cmake3-ubuntu-14-04-installation/) <sub>August 04, 2018</sub>
+- [Can't Start Android Emulator on macOS? It's Probably Conflicting with Docker](https://www.junian.net/dev/android-emulator-docker-conflict-macos/) <sub>June 05, 2017</sub>
+- [Xamarin Mobile Apps Continuous Integration and Delivery with Jenkins and HockeyApp](https://www.junian.net/dev/xamarin-jenkins-hockeyapp/) <sub>May 30, 2017</sub>
+- [Fullscreen Video Background Control for Xamarin.Forms](https://www.junian.net/dev/xamarin-forms-video-background/) <sub>March 03, 2017</sub>
+- [Simple Custom Fonts Helper in Xamarin.Forms for Android](https://www.junian.net/dev/xamarin-forms-android-custom-font/) <sub>February 09, 2017</sub>
+- [How To Play Audio Files in Xamarin.Forms](https://www.junian.net/dev/xamarin-forms-play-audio/) <sub>February 08, 2017</sub>
+- [Running Your First ASP.NET Core Web App with MySQL on Ubuntu 16.04](https://www.junian.net/dev/aspnet-core-mysql-ubuntu-16-04/) <sub>January 24, 2017</sub>
+- [How to Record Twitch Streams Automatically in Python](https://www.junian.net/dev/python-record-twitch/) <sub>January 19, 2017</sub>
+- [Camera Face Detection in C# using Emgu CV and WPF](https://www.junian.net/dev/csharp-emgucv-camera-face-detection/) <sub>December 29, 2016</sub>
+- [Simple HTTP Web Server and Client in Python](https://www.junian.net/dev/python-http-server-client/) <sub>December 20, 2016</sub>
+- [Load External Image into WPF using OpenFileDialog](https://www.junian.net/dev/wpf-load-external-image/) <sub>December 13, 2016</sub>
+- [Password Encryption using MD5 Hash Algorithm in C#](https://www.junian.net/dev/csharp-md5/) <sub>December 08, 2016</sub>
+- [How To Make A 2D Animation using Timer with C++ .NET](https://www.junian.net/dev/cpp-dotnet-2d-animation/) <sub>December 07, 2016</sub>
+- [How To Draw 2D Primitive Objects with C++ .NET](https://www.junian.net/dev/cpp-dotnet-draw-2d-primitive/) <sub>December 02, 2016</sub>
 <!-- feed end -->
