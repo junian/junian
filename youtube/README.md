@@ -1,4 +1,19 @@
 ## YouTube Videos
 
 <!-- youtube feed start -->
+- `Feb 12, 2025` [Learn Typography by Building a Nutrition Label - A Walkthrough for freeCodeCamp - No Commentary](https://www.youtube.com/watch?v=emt78pRLr3Y)
+- `Jan 10, 2025` [Learn CSS Flexbox by Building a Photo Gallery - A Walkthrough for freeCodeCamp - No Commentary](https://www.youtube.com/watch?v=XRZfAuPShX0)
+- `Jan 10, 2025` [Learn the CSS Box Model by Building a Rothko Painting - A Walkthrough for freeCodeCamp - No Comment](https://www.youtube.com/watch?v=KoAPQniuKP0)
+- `Jan 08, 2025` [How to Install MongoDB Community Edition on Ubuntu Server 24.04 - Beginners Friendly](https://www.youtube.com/watch?v=WUUZcoyBnI0)
+- `Jan 08, 2025` [Learn HTML Forms by Building a Registration Form - A Walkthrough of freeCodeCamp - No Commentary](https://www.youtube.com/watch?v=hAsFqy1dRJM)
+- `Jan 07, 2025` [Learn CSS Colors by Building a Set of Colored Markers | A freeCodeCamp Walkthrough | No Commentary](https://www.youtube.com/watch?v=iqrHIz0nMHw)
+- `Jan 07, 2025` [[60s Demo] MongoDB 8 CE Installation on Ubuntu 24.04](https://www.youtube.com/watch?v=klubwDBVLNM)
+- `Jan 06, 2025` [Learn Basic CSS by Building a Cafe Menu | A Walkthrough for freeCodeCamp | No Commentary Coding](https://www.youtube.com/watch?v=9o6tG06eJMs)
+- `Dec 31, 2024` [How to change GitHub default branch to master](https://www.youtube.com/watch?v=LsOjJxdO81Q)
+- `Dec 29, 2024` [Learn HTML by Building a Cat Photo App | A Walkthrough for freeCodeCamp | No Commentary Coding](https://www.youtube.com/watch?v=j3I84FR2U6Q)
+- `Dec 23, 2024` [How to call ChatGPT for FREE with Google Voice app](https://www.youtube.com/watch?v=f0Gxo8OLLVU)
+- `Dec 23, 2024` [How to Use TP-Link Tether Without TP-Link ID Login](https://www.youtube.com/watch?v=tCO6PEt-gFc)
+- `Dec 19, 2024` [How to Update Safari Version without Upgrading macOS](https://www.youtube.com/watch?v=xu7go6Hlqus)
+- `Nov 21, 2024` [Fixing "You require permission from ADMIN to make changes to this file" Windows problem.](https://www.youtube.com/watch?v=AHntqlpzYoc)
+- `Nov 13, 2024` [LeetCode in C# | 412. Fizz Buzz | ASMR Coding](https://www.youtube.com/watch?v=nU-lZ8XLIuI)
 <!-- youtube feed end -->
