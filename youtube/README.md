@@ -1,6 +1,7 @@
 ## YouTube Videos
 
 <!-- youtube feed start -->
+- `Oct 08, 2025` [How to Set MacBook 16:9 Screen Resolution with BetterDisplay](https://www.youtube.com/watch?v=JuTi97QrMu0)
 - `Oct 07, 2025` [Draw Batman with Math! The Batman Symbol Math Equation](https://www.youtube.com/watch?v=FlpR0H-aqW4)
 - `Feb 12, 2025` [Learn Typography by Building a Nutrition Label - A Walkthrough for freeCodeCamp - No Commentary](https://www.youtube.com/watch?v=emt78pRLr3Y)
 - `Jan 10, 2025` [Learn CSS Flexbox by Building a Photo Gallery - A Walkthrough for freeCodeCamp - No Commentary](https://www.youtube.com/watch?v=XRZfAuPShX0)
@@ -15,5 +16,4 @@
 - `Dec 23, 2024` [How to call ChatGPT for FREE with Google Voice app](https://www.youtube.com/watch?v=f0Gxo8OLLVU)
 - `Dec 23, 2024` [How to Use TP-Link Tether Without TP-Link ID Login](https://www.youtube.com/watch?v=tCO6PEt-gFc)
 - `Dec 19, 2024` [How to Update Safari Version without Upgrading macOS](https://www.youtube.com/watch?v=xu7go6Hlqus)
-- `Nov 21, 2024` [Fixing "You require permission from ADMIN to make changes to this file" Windows problem.](https://www.youtube.com/watch?v=AHntqlpzYoc)
 <!-- youtube feed end -->
