@@ -1,6 +1,7 @@
 ## YouTube Videos
 
 <!-- youtube feed start -->
+- `Oct 09, 2025` [Activate Windows Developer Mode](https://www.youtube.com/watch?v=Nwv73e8aEdk)
 - `Oct 08, 2025` [How to Set MacBook 16:9 Screen Resolution with BetterDisplay](https://www.youtube.com/watch?v=JuTi97QrMu0)
 - `Oct 07, 2025` [Draw Batman with Math! The Batman Symbol Math Equation](https://www.youtube.com/watch?v=FlpR0H-aqW4)
 - `Feb 12, 2025` [Learn Typography by Building a Nutrition Label - A Walkthrough for freeCodeCamp - No Commentary](https://www.youtube.com/watch?v=emt78pRLr3Y)
@@ -15,5 +16,4 @@
 - `Dec 29, 2024` [Learn HTML by Building a Cat Photo App | A Walkthrough for freeCodeCamp | No Commentary Coding](https://www.youtube.com/watch?v=j3I84FR2U6Q)
 - `Dec 23, 2024` [How to call ChatGPT for FREE with Google Voice app](https://www.youtube.com/watch?v=f0Gxo8OLLVU)
 - `Dec 23, 2024` [How to Use TP-Link Tether Without TP-Link ID Login](https://www.youtube.com/watch?v=tCO6PEt-gFc)
-- `Dec 19, 2024` [How to Update Safari Version without Upgrading macOS](https://www.youtube.com/watch?v=xu7go6Hlqus)
 <!-- youtube feed end -->
