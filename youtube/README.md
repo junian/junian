@@ -1,6 +1,7 @@
 ## YouTube Videos
 
 <!-- youtube feed start -->
+- `Oct 11, 2025` [How to Display File Extension on Windows Explorer](https://www.youtube.com/watch?v=JRjp7hlG4N8)
 - `Oct 10, 2025` [Show All Filename Extensions on macOS Finder app](https://www.youtube.com/watch?v=co_OehKkEbA)
 - `Oct 09, 2025` [Activate Windows Developer Mode](https://www.youtube.com/watch?v=Nwv73e8aEdk)
 - `Oct 08, 2025` [How to Set MacBook 16:9 Screen Resolution with BetterDisplay](https://www.youtube.com/watch?v=JuTi97QrMu0)
@@ -15,5 +16,4 @@
 - `Jan 06, 2025` [Learn Basic CSS by Building a Cafe Menu | A Walkthrough for freeCodeCamp | No Commentary Coding](https://www.youtube.com/watch?v=9o6tG06eJMs)
 - `Dec 31, 2024` [How to change GitHub default branch to master](https://www.youtube.com/watch?v=LsOjJxdO81Q)
 - `Dec 29, 2024` [Learn HTML by Building a Cat Photo App | A Walkthrough for freeCodeCamp | No Commentary Coding](https://www.youtube.com/watch?v=j3I84FR2U6Q)
-- `Dec 23, 2024` [How to call ChatGPT for FREE with Google Voice app](https://www.youtube.com/watch?v=f0Gxo8OLLVU)
 <!-- youtube feed end -->
