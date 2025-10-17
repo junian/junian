@@ -1,6 +1,7 @@
 ## YouTube Videos
 
 <!-- youtube feed start -->
+- `Oct 17, 2025` [How to Convert macOS App Icon (icns) to a PNG Image File](https://www.youtube.com/watch?v=GSJ2RVHTm_M)
 - `Oct 16, 2025` [How to NOT Auto Update macOS](https://www.youtube.com/watch?v=33L--ZBRvfk)
 - `Oct 15, 2025` [Local Area Network Bandwidth Speed Test with iperf3 Tutorial](https://www.youtube.com/watch?v=V0EhVCCxTuc)
 - `Oct 14, 2025` [Listen to Calming Background Sounds on macOS](https://www.youtube.com/watch?v=u-cheQ0JKKU)
@@ -15,5 +16,4 @@
 - `Jan 10, 2025` [Learn CSS Flexbox by Building a Photo Gallery - A Walkthrough for freeCodeCamp - No Commentary](https://www.youtube.com/watch?v=XRZfAuPShX0)
 - `Jan 10, 2025` [Learn the CSS Box Model by Building a Rothko Painting - A Walkthrough for freeCodeCamp - No Comment](https://www.youtube.com/watch?v=KoAPQniuKP0)
 - `Jan 08, 2025` [How to Install MongoDB Community Edition on Ubuntu Server 24.04 - Beginners Friendly](https://www.youtube.com/watch?v=WUUZcoyBnI0)
-- `Jan 08, 2025` [Learn HTML Forms by Building a Registration Form - A Walkthrough of freeCodeCamp - No Commentary](https://www.youtube.com/watch?v=hAsFqy1dRJM)
 <!-- youtube feed end -->
