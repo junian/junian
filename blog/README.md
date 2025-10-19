@@ -1,7 +1,7 @@
 ## Tech Blog
 
 <!-- feed start -->
-- `Oct 18, 2025` [How to Concatenate Multiple Videos Into a Single Video File](https://www.junian.net/tech/ffmpeg-concat-videos/)
+- `Oct 18, 2025` [How to Concatenate Multiple Videos Into a Single Video File with FFmpeg](https://www.junian.net/tech/ffmpeg-concat-videos/)
 - `Oct 05, 2025` [My Experience Fixing Flutter Android Google Play 16 KB Page Size Violation](https://www.junian.net/dev/flutter-android-16kb-page-size/)
 - `Sep 30, 2025` [Troubleshooting Flutter Android App to Target SDK 35 Upgrade](https://www.junian.net/dev/flutter-android-sdk-35-upgrade/)
 - `Sep 29, 2025` [GitHub Actions Bot Username and Email Address](https://www.junian.net/dev/github-actions-bot-username-email-address/)
