@@ -1,6 +1,7 @@
 ## Tech Blog
 
 <!-- feed start -->
+- `Oct 21, 2025` [How to Listen to macOS Background Sounds](https://www.junian.net/tech/macos-background-sounds/)
 - `Oct 20, 2025` [Disable macOS Auto Update](https://www.junian.net/tech/macos-disable-auto-update/)
 - `Oct 18, 2025` [How to Concatenate Multiple Videos Into a Single Video File with FFmpeg](https://www.junian.net/tech/ffmpeg-concat-videos/)
 - `Oct 05, 2025` [My Experience Fixing Flutter Android Google Play 16 KB Page Size Violation](https://www.junian.net/dev/flutter-android-16kb-page-size/)
