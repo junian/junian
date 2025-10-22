@@ -1,6 +1,7 @@
 ## YouTube Videos
 
 <!-- youtube feed start -->
+- `Oct 22, 2025` [Scoop Package Manager Quickstart on Windows](https://www.youtube.com/watch?v=JugEIxYr3jk)
 - `Oct 21, 2025` [Battery Charge Limit on macOS](https://www.youtube.com/watch?v=qn6DdrRBg0s)
 - `Oct 20, 2025` [Windows VPN Split Tunneling](https://www.youtube.com/watch?v=9shE_ahElug)
 - `Oct 17, 2025` [How to Convert macOS App Icon (icns) to a PNG Image File](https://www.youtube.com/watch?v=GSJ2RVHTm_M)
@@ -15,5 +16,4 @@
 - `Oct 08, 2025` [How to Set MacBook 16:9 Screen Resolution with BetterDisplay](https://www.youtube.com/watch?v=JuTi97QrMu0)
 - `Oct 07, 2025` [Draw Batman with Math! The Batman Symbol Math Equation](https://www.youtube.com/watch?v=FlpR0H-aqW4)
 - `Feb 12, 2025` [Learn Typography by Building a Nutrition Label - A Walkthrough for freeCodeCamp - No Commentary](https://www.youtube.com/watch?v=emt78pRLr3Y)
-- `Jan 10, 2025` [Learn CSS Flexbox by Building a Photo Gallery - A Walkthrough for freeCodeCamp - No Commentary](https://www.youtube.com/watch?v=XRZfAuPShX0)
 <!-- youtube feed end -->
