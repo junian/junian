@@ -1,6 +1,7 @@
 ## Tech Blog
 
 <!-- feed start -->
+- `Oct 23, 2025` [Show File Extensions in Finder on macOS](https://www.junian.net/tech/macos-finder-show-file-extension/)
 - `Oct 22, 2025` [Change Video Aspect Ratio with FFmpeg](https://www.junian.net/tech/ffmpeg-change-aspect-ratio/)
 - `Oct 21, 2025` [How to Listen to macOS Background Sounds](https://www.junian.net/tech/macos-background-sounds/)
 - `Oct 20, 2025` [Disable macOS Auto Update](https://www.junian.net/tech/macos-disable-auto-update/)
