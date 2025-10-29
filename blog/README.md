@@ -84,6 +84,7 @@
 - `Mar 30, 2020` [How to Fix Mi / Redmi Airdots Connection and Pairing Problem](https://www.junian.net/tech/xiaomi-airdots-connection-troubleshooting/)
 - `Mar 29, 2020` [Vertical to Horizontal Video Conversion with Blur Sides by using FFmpeg](https://www.junian.net/tech/ffmpeg-vertical-video-blur/)
 - `Mar 28, 2020` [How to Fix Raspberry Pi Slow USB Drive Write Speed Problem](https://www.junian.net/tech/raspberry-pi-slow-usb-drive-write-speed/)
+- `Mar 28, 2020` [Wget File Download with Correct File Name](https://www.junian.net/tech/wget-correct-name/)
 - `Mar 28, 2020` [Permanently Enable macOS Night Shift](https://www.junian.net/tech/macos-permanent-night-shift/)
 - `Mar 27, 2020` [How To Convert PSP ISO Games To CSO on Raspberry Pi](https://www.junian.net/tech/psp-iso-to-cso/)
 - `Mar 27, 2020` [How to Set Up Aria2 Download Manager with Web UI on Raspberry Pi](https://www.junian.net/tech/raspberry-pi-aria2-download-manager/)
