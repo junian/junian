@@ -1,6 +1,7 @@
 ## Tech Blog
 
 <!-- feed start -->
+- `Oct 31, 2025` [Always Show Filename Extensions in Windows Explorer](https://www.junian.net/tech/windows-explorer-show-file-extension/)
 - `Oct 30, 2025` [Enable Three Finger Window Drag on macOS](https://www.junian.net/tech/macos-three-finger-drag-window/)
 - `Oct 29, 2025` [Activate Windows Developer Mode](https://www.junian.net/tech/windows-developer-mode/)
 - `Oct 28, 2025` [Scoop Package Manager for Windows](https://www.junian.net/tech/windows-scoop-package-manager/)
