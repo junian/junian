@@ -1,6 +1,7 @@
 ## YouTube Videos
 
 <!-- youtube feed start -->
+- `Oct 31, 2025` [Solving Xamarin iOS 'Could Not Load the Framework IDEDistribution' Issue](https://www.youtube.com/watch?v=rnwKEtFM0vM)
 - `Oct 30, 2025` [How to Enable Three Finger Drag on macOS](https://www.youtube.com/watch?v=iPPxkdKFhJ4)
 - `Oct 29, 2025` [Incorrect Filename from Wget Download and How to Fix It](https://www.youtube.com/watch?v=aOTe3czWcsc)
 - `Oct 22, 2025` [Scoop Package Manager Quickstart on Windows](https://www.youtube.com/watch?v=JugEIxYr3jk)
@@ -15,5 +16,4 @@
 - `Oct 11, 2025` [How to Display File Extension on Windows Explorer](https://www.youtube.com/watch?v=JRjp7hlG4N8)
 - `Oct 10, 2025` [Show All Filename Extensions on macOS Finder app](https://www.youtube.com/watch?v=co_OehKkEbA)
 - `Oct 09, 2025` [Activate Windows Developer Mode](https://www.youtube.com/watch?v=Nwv73e8aEdk)
-- `Oct 08, 2025` [How to Set MacBook 16:9 Screen Resolution with BetterDisplay](https://www.youtube.com/watch?v=JuTi97QrMu0)
 <!-- youtube feed end -->
