@@ -1,6 +1,7 @@
 ## Tech Blog
 
 <!-- feed start -->
+- `Nov 01, 2025` [SQL Server Management Studio - All Versions Download](https://www.junian.net/dev/sql-server-management-studio-all-versions-download/)
 - `Oct 31, 2025` [Always Show Filename Extensions in Windows Explorer](https://www.junian.net/tech/windows-explorer-show-file-extension/)
 - `Oct 30, 2025` [Enable Three Finger Window Drag on macOS](https://www.junian.net/tech/macos-three-finger-drag-window/)
 - `Oct 29, 2025` [Activate Windows Developer Mode](https://www.junian.net/tech/windows-developer-mode/)
@@ -68,7 +69,7 @@
 - `Sep 12, 2024` [How to Install Homebrew Package Manager on macOS](https://www.junian.net/tech/macos-install-homebrew/)
 - `May 05, 2024` [Folder Browser Dialog on Windows with C#](https://www.junian.net/dev/csharp-open-folder-dialog/)
 - `May 05, 2024` [Can't Open Form [Design] View in WinForms Project](https://www.junian.net/dev/winforms-unable-open-design-view/)
-- `Apr 29, 2024` [Mac to PC: How to Use the 'open' Command in Windows](https://www.junian.net/tech/windows-open-command-like-macos/)
+- `Apr 29, 2024` [Mac Owner using PC: How to Use the 'open' Command in Windows](https://www.junian.net/tech/windows-open-command-like-macos/)
 - `Apr 17, 2024` [VSCode Avalonia Extension Download .NET Runtime Issue](https://www.junian.net/dev/vscode-avalonia-requested-to-download-dotnet-runtime/)
 - `Apr 17, 2024` [Retrieving Keychain Passwords in Swift for macOS](https://www.junian.net/dev/swift-get-keychain-password/)
 - `Apr 15, 2024` [Deploy a .NET 8 Blazor Site to Cloudflare Pages](https://www.junian.net/dev/deploy-blazor-to-cloudflare-pages/)
