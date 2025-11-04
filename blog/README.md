@@ -1,6 +1,7 @@
 ## Tech Blog
 
 <!-- feed start -->
+- `Nov 02, 2025` [How to Change the Default Screenshot Folder on macOS](https://www.junian.net/tech/macos-change-screenshot-folder/)
 - `Nov 01, 2025` [SQL Server Management Studio - All Versions Download](https://www.junian.net/dev/sql-server-management-studio-all-versions-download/)
 - `Oct 31, 2025` [Always Show Filename Extensions in Windows Explorer](https://www.junian.net/tech/windows-explorer-show-file-extension/)
 - `Oct 30, 2025` [Enable Three Finger Window Drag on macOS](https://www.junian.net/tech/macos-three-finger-drag-window/)
@@ -46,11 +47,11 @@
 - `Nov 21, 2024` [How to Fix 'File Access Denied' Issue on Windows](https://www.junian.net/tech/windows-fix-file-access-denied/)
 - `Nov 18, 2024` [How to Run Brave Browser without CORS Restriction](https://www.junian.net/dev/brave-disable-cors/)
 - `Nov 17, 2024` [How to Run Safari Browser without CORS Restriction](https://www.junian.net/dev/safari-disable-cors/)
-- `Nov 14, 2024` [Fizz Buzz | LeetCode in C#](https://www.junian.net/dev/fizz-buzz/)
-- `Nov 10, 2024` [Palindrome Number | LeetCode in C#](https://www.junian.net/dev/palindrome-number/)
-- `Nov 09, 2024` [Remove Duplicates From Sorted Array | LeetCode in C#](https://www.junian.net/dev/remove-duplicates-from-sorted-array/)
-- `Nov 08, 2024` [Two Sum | LeetCode in C# | Hash Table Solution](https://www.junian.net/dev/two-sum-hash-table/)
-- `Nov 08, 2024` [Two Sum | LeetCode in C# | Brute force approach](https://www.junian.net/dev/two-sum-bruteforce/)
+- `Nov 14, 2024` [Fizz Buzz - LeetCode in C#](https://www.junian.net/dev/fizz-buzz/)
+- `Nov 10, 2024` [Palindrome Number - LeetCode in C#](https://www.junian.net/dev/palindrome-number/)
+- `Nov 09, 2024` [Remove Duplicates From Sorted Array - LeetCode in C#](https://www.junian.net/dev/remove-duplicates-from-sorted-array/)
+- `Nov 08, 2024` [Two Sum - LeetCode in C# - Hash Table Solution](https://www.junian.net/dev/two-sum-hash-table/)
+- `Nov 08, 2024` [Two Sum - LeetCode in C# - Brute force approach](https://www.junian.net/dev/two-sum-bruteforce/)
 - `Oct 25, 2024` [How to Run Microsoft Edge without CORS Restriction](https://www.junian.net/dev/microsoft-edge-disable-cors/)
 - `Oct 12, 2024` [Removing Full-Screen Intent Permission from Flutter Android](https://www.junian.net/dev/flutter-android-remove-permission-use-full-screen-intent/)
 - `Oct 10, 2024` [Xcode Command Line Tools Installation FAQ](https://www.junian.net/dev/xcode-command-line-tools-installation-faq/)
