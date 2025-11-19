@@ -1,6 +1,7 @@
 ## Tech Blog
 
 <!-- feed start -->
+- `Nov 19, 2025` [Microsoft Remote Desktop Client App for Older macOS Versions](https://www.junian.net/tech/macos-microsoft-remote-desktop-client-app/)
 - `Nov 12, 2025` [Visual Studio Community Downloads - 2026, 2022, 2019, 2017, 2015](https://www.junian.net/dev/visual-studio-community-download-links/)
 - `Nov 12, 2025` [SQL Server Management Studio - All Versions Download](https://www.junian.net/dev/sql-server-management-studio-all-versions-download/)
 - `Nov 04, 2025` [Microsoft SQL Server on Apple Silicon ARM64 Mac](https://www.junian.net/dev/microsoft-sql-server-apple-silicon-mac/)
