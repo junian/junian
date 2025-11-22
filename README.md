@@ -10,6 +10,7 @@ I'm **Junian** the **Experienced Software Engineer** from [East Java](https://en
 [![Junian Dev Tech Blog](https://img.shields.io/badge/Tech_Blog-1a73e8?style=for-the-badge&logo=hugo&logoColor=white "Junian Dev Tech Blog")](https://www.junian.dev/blog/)
 [![Junian YouTube](https://img.shields.io/youtube/channel/views/UCepvZYlW1tWJ8bu3dWLQh2w?style=for-the-badge&logo=youtube&label=YouTube&labelColor=ff0000&color=555555
  "Junian YouTube Channel")](https://www.youtube.com/@JunianDev)
+[![Hire Junian on Upwork](https://img.shields.io/badge/Hire_me-6fda44?style=for-the-badge&logo=upwork&logoColor=white "Hire Junian on Upwork")](https://www.junian.dev/upwork/)
 
 </div>
 
