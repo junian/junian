@@ -8,11 +8,17 @@ I'm **Junian** the **Experienced Software Engineer** from [East Java](https://en
 
 [![Junian Dev Website](https://img.shields.io/badge/Website-1a73e8?style=for-the-badge&logo=googlechrome&logoColor=white "Junian Dev Website")](https://www.junian.dev/)
 [![Junian Dev Tech Blog](https://img.shields.io/badge/Tech_Blog-1a73e8?style=for-the-badge&logo=hugo&logoColor=white "Junian Dev Tech Blog")](https://www.junian.dev/blog/)
-[![Junian YouTube](https://img.shields.io/youtube/channel/views/UCepvZYlW1tWJ8bu3dWLQh2w?style=for-the-badge&logo=youtube&label=YouTube&labelColor=ff0000&color=555555
- "Junian YouTube Channel")](https://www.youtube.com/@JunianDev)
+[![Junian Dev YouTube Channel](https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white "Junian Dev YouTube Channel")](https://www.junian.dev/youtube/)
 [![Hire Junian on Upwork](https://img.shields.io/badge/Hire_me-14a800?style=for-the-badge&logo=upwork&logoColor=white "Hire Junian on Upwork")](https://www.junian.dev/upwork/)
 
 </div>
+
+<!--
+
+[![Junian YouTube](https://img.shields.io/youtube/channel/views/UCepvZYlW1tWJ8bu3dWLQh2w?style=for-the-badge&logo=youtube&label=YouTube&labelColor=ff0000&color=555555
+ "Junian YouTube Channel")](https://www.youtube.com/@JunianDev)
+
+-->
 
 ## 🧑‍💻 About Me
 
