@@ -1,6 +1,7 @@
 ## Tech Blog
 
 <!-- feed start -->
+- `Dec 05, 2025` [Robots.txt to Allow LLM AI Like ChatGPT for Search Only Using Content Signals](https://www.junian.net/tech/robots-txt-search-only-llm-ai-gpt/)
 - `Dec 03, 2025` [Installing Multiple .NET Versions on macOS with Homebrew](https://www.junian.net/dev/install-multiple-dotnet-macos-homebrew/)
 - `Dec 02, 2025` [Microsoft Office for macOS Download Links](https://www.junian.net/tech/microsoft-office-macos-download-links/)
 - `Dec 01, 2025` [Managing macOS System Extensions From the Terminal](https://www.junian.net/tech/macos-system-extension-management/)

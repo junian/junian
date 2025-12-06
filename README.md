@@ -31,11 +31,11 @@ I'm **Junian** the **Experienced Software Engineer** from [East Java](https://en
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [Robots.txt to Allow LLM AI Like ChatGPT for Search Only Using Content Signals](https://www.junian.net/tech/robots-txt-search-only-llm-ai-gpt/) <sub>December 05, 2025</sub>
 - [Installing Multiple .NET Versions on macOS with Homebrew](https://www.junian.net/dev/install-multiple-dotnet-macos-homebrew/) <sub>December 03, 2025</sub>
 - [Microsoft Office for macOS Download Links](https://www.junian.net/tech/microsoft-office-macos-download-links/) <sub>December 02, 2025</sub>
 - [Managing macOS System Extensions From the Terminal](https://www.junian.net/tech/macos-system-extension-management/) <sub>December 01, 2025</sub>
 - [Using a Closed MacBook with an External Monitor (Clamshell Mode)](https://www.junian.net/tech/macbook-clamshell-mode/) <sub>November 27, 2025</sub>
-- [macOS Screen Mirror Keyboard Shortcut](https://www.junian.net/tech/macos-screen-mirror-keyboard-shortcut/) <sub>November 24, 2025</sub>
 <!-- blog feed end -->
 
 > [**See more**](https://junian.net/)
@@ -43,7 +43,7 @@ I'm **Junian** the **Experienced Software Engineer** from [East Java](https://en
 ## 🎬 Recent YouTube Videos
 
 <!-- youtube feed start -->
-- [Installing Visual Studio 2022 Community in 2026](https://www.youtube.com/watch?v=cLrk2zt4buQ) <sub>December 05, 2025</sub>
+- [Installing Visual Studio 2022 Community in 2025](https://www.youtube.com/watch?v=cLrk2zt4buQ) <sub>December 05, 2025</sub>
 - [How to use MacBook in Clamshell Mode / Screen Lid Closed with External Display](https://www.youtube.com/watch?v=pnYnRerlhXk) <sub>November 26, 2025</sub>
 - [Mac Keyboard Shortcut to Display on External Monitor / Screen Mirror Shortcut for MacBook or macOS](https://www.youtube.com/watch?v=sRJAzUL1jRk) <sub>November 24, 2025</sub>
 - [Disable / Enable Hibernate on Windows](https://www.youtube.com/watch?v=yMDH04IZ8dA) <sub>November 18, 2025</sub>
