@@ -1,6 +1,7 @@
 ## YouTube Videos
 
 <!-- youtube feed start -->
+- `Dec 08, 2025` [Disable Reserved Storage on Windows 11](https://www.youtube.com/watch?v=tnWAP3fGN8U)
 - `Dec 05, 2025` [Installing Visual Studio 2022 Community in 2025](https://www.youtube.com/watch?v=cLrk2zt4buQ)
 - `Nov 26, 2025` [How to use MacBook in Clamshell Mode / Screen Lid Closed with External Display](https://www.youtube.com/watch?v=pnYnRerlhXk)
 - `Nov 24, 2025` [Mac Keyboard Shortcut to Display on External Monitor / Screen Mirror Shortcut for MacBook or macOS](https://www.youtube.com/watch?v=sRJAzUL1jRk)
@@ -15,5 +16,4 @@
 - `Oct 17, 2025` [How to Convert macOS App Icon (icns) to a PNG Image File](https://www.youtube.com/watch?v=GSJ2RVHTm_M)
 - `Oct 16, 2025` [How to NOT Auto Update macOS](https://www.youtube.com/watch?v=33L--ZBRvfk)
 - `Oct 15, 2025` [Local Area Network Bandwidth Speed Test with iperf3 Tutorial](https://www.youtube.com/watch?v=V0EhVCCxTuc)
-- `Oct 14, 2025` [Listen to Calming Background Sounds on macOS](https://www.youtube.com/watch?v=u-cheQ0JKKU)
 <!-- youtube feed end -->
