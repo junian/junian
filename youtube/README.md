@@ -1,6 +1,7 @@
 ## YouTube Videos
 
 <!-- youtube feed start -->
+- `Jan 12, 2026` [Fixing 'zsh compinit: insecure directories' Error on macOS](https://www.youtube.com/watch?v=N69iZwc7rVM)
 - `Jan 09, 2026` [Fixing Unable to install the Microsoft Word Plugin Issue of Mendeley Desktop on macOS](https://www.youtube.com/watch?v=pTgoOleEnm0)
 - `Jan 07, 2026` [Open macOS App that Refuses to be Opened](https://www.youtube.com/watch?v=o4-sX9Tydz0)
 - `Dec 10, 2025` [Formatting a new SSD / Hard Drive on Windows 11](https://www.youtube.com/watch?v=lQQwZssNlGg)
@@ -15,5 +16,4 @@
 - `Oct 29, 2025` [Incorrect Filename from Wget Download and How to Fix It](https://www.youtube.com/watch?v=aOTe3czWcsc)
 - `Oct 22, 2025` [Scoop Package Manager Quickstart on Windows](https://www.youtube.com/watch?v=JugEIxYr3jk)
 - `Oct 21, 2025` [Battery Charge Limit on macOS. How to force macOS stop charging battery at 80% manually.](https://www.youtube.com/watch?v=qn6DdrRBg0s)
-- `Oct 20, 2025` [Windows VPN Split Tunneling](https://www.youtube.com/watch?v=9shE_ahElug)
 <!-- youtube feed end -->
