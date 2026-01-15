@@ -43,11 +43,11 @@ I'm **Junian** the **Experienced Software Engineer** from [East Java](https://en
 ## 🎬 Recent YouTube Videos
 
 <!-- youtube feed start -->
+- [How to Restore the missing Wi-Fi icon from Recovery Assistant of macOS](https://www.youtube.com/watch?v=oZvv6DI4cHI) <sub>January 14, 2026</sub>
 - [Fixing 'zsh compinit: insecure directories' Error on macOS](https://www.youtube.com/watch?v=N69iZwc7rVM) <sub>January 12, 2026</sub>
 - [Fixing Unable to install the Microsoft Word Plugin Issue of Mendeley Desktop on macOS](https://www.youtube.com/watch?v=pTgoOleEnm0) <sub>January 09, 2026</sub>
 - [Open macOS App that Refuses to be Opened](https://www.youtube.com/watch?v=o4-sX9Tydz0) <sub>January 07, 2026</sub>
 - [Formatting a new SSD / Hard Drive on Windows 11](https://www.youtube.com/watch?v=lQQwZssNlGg) <sub>December 10, 2025</sub>
-- [Disable Reserved Storage on Windows 11](https://www.youtube.com/watch?v=tnWAP3fGN8U) <sub>December 08, 2025</sub>
 <!-- youtube feed end -->
 
 > [**See more**](https://junian.net/yt/)
