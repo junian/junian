@@ -43,11 +43,11 @@ I'm **Junian** the **Experienced Software Engineer** from [East Java](https://en
 ## 🎬 Recent YouTube Videos
 
 <!-- youtube feed start -->
+- [How to Reset your Mac to Factory Default / Erase All Content and Settings before Selling the Mac](https://www.youtube.com/watch?v=51MYNkzi1Cc) <sub>January 22, 2026</sub>
 - [How to Restore the missing Wi-Fi icon from Recovery Assistant of macOS](https://www.youtube.com/watch?v=oZvv6DI4cHI) <sub>January 14, 2026</sub>
 - [Fixing 'zsh compinit: insecure directories' Error on macOS](https://www.youtube.com/watch?v=N69iZwc7rVM) <sub>January 12, 2026</sub>
 - [Fixing Unable to install the Microsoft Word Plugin Issue of Mendeley Desktop on macOS](https://www.youtube.com/watch?v=pTgoOleEnm0) <sub>January 09, 2026</sub>
 - [Open macOS App that Refuses to be Opened](https://www.youtube.com/watch?v=o4-sX9Tydz0) <sub>January 07, 2026</sub>
-- [Formatting a new SSD / Hard Drive on Windows 11](https://www.youtube.com/watch?v=lQQwZssNlGg) <sub>December 10, 2025</sub>
 <!-- youtube feed end -->
 
 > [**See more**](https://junian.net/yt/)
