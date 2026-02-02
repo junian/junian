@@ -31,11 +31,11 @@ I'm **Junian** the **Experienced Software Engineer** from [East Java](https://en
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [Rotate Video with FFmpeg](https://www.junian.net/tech/ffmpeg-rotate-video/) <sub>February 01, 2026</sub>
 - [Old Pages, Numbers, and Keynote iWork macOS App Download Links](https://www.junian.net/tech/macos-old-pages-numbers-keynote-download-links/) <sub>January 31, 2026</sub>
 - [How to Deploy a Blazor WebAssembly Standalone App to GitHub Pages](https://www.junian.net/dev/deploy-blazor-webassembly-standalone-to-github-pages/) <sub>January 30, 2026</sub>
 - [How to Check Disk Drive Allocation Unit Size on Windows](https://www.junian.net/tech/windows-check-allocation-unit-size/) <sub>January 29, 2026</sub>
 - [Deploy a .NET 10 Blazor WebAssembly App to Cloudflare Pages](https://www.junian.net/dev/deploy-blazor-to-cloudflare-pages/) <sub>January 28, 2026</sub>
-- [Visual Studio Code and Its Forks with FREE AI](https://www.junian.net/dev/vscode-forks/) <sub>January 27, 2026</sub>
 <!-- blog feed end -->
 
 > [**See more**](https://junian.net/)
