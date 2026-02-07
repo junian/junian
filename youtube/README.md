@@ -1,6 +1,7 @@
 ## YouTube Videos
 
 <!-- youtube feed start -->
+- `Feb 06, 2026` [Installing Visual Studio Community 2019 in 2026](https://www.youtube.com/watch?v=vAIg4b6IyXI)
 - `Feb 05, 2026` [Turn off Dahua CCTV XVR NVR DVR Beeping / Buzzer Sound / No Disk Alarm Noise](https://www.youtube.com/watch?v=87to6eASaaI)
 - `Feb 04, 2026` [Convert HDR to SDR Video with HandBrake app - Remove HDR from a Video file](https://www.youtube.com/watch?v=na-r0koyz2s)
 - `Jan 22, 2026` [How to Reset your Mac to Factory Default / Erase All Content and Settings before Selling the Mac](https://www.youtube.com/watch?v=51MYNkzi1Cc)
@@ -15,5 +16,4 @@
 - `Nov 24, 2025` [Mac Keyboard Shortcut to Display on External Monitor / Screen Mirror Shortcut for MacBook or macOS](https://www.youtube.com/watch?v=sRJAzUL1jRk)
 - `Nov 18, 2025` [Disable / Enable Hibernate on Windows](https://www.youtube.com/watch?v=yMDH04IZ8dA)
 - `Nov 03, 2025` [Terminal Command to Open Anything in Windows: Start!](https://www.youtube.com/watch?v=gawTA63JgCg)
-- `Oct 31, 2025` [Solving Xamarin iOS 'Could Not Load the Framework IDEDistribution' Issue](https://www.youtube.com/watch?v=rnwKEtFM0vM)
 <!-- youtube feed end -->
