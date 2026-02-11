@@ -36,8 +36,8 @@ I'm **Junian** the **Experienced Software Engineer** from [East Java](https://en
 - [How to Disable Liquid Glass Transparency on iPhone (iOS 26)](https://www.junian.net/tech/ios-disable-liquid-glass/) <sub>February 10, 2026</sub>
 - [CasaOS on macOS with External Drives](https://www.junian.net/tech/casaos-on-macos-with-external-drives/) <sub>February 09, 2026</sub>
 - [Installing Visual Studio 2019 Community Edition (Step by Step)](https://www.junian.net/dev/install-visual-studio-2019/) <sub>February 08, 2026</sub>
+- [Fixing Mendeley Desktop Citation Plugin for Microsoft Word on macOS](https://www.junian.net/tech/macos-mendeley-desktop-microsoft-word-plugin/) <sub>February 07, 2026</sub>
 - [How to Create an Empty Orphan Git Branch](https://www.junian.net/dev/git-create-orphan-branch/) <sub>February 06, 2026</sub>
-- [Turn Off Dahua CCTV NVR or DVR/XVR Beeping Noise](https://www.junian.net/tech/dahua-cctv-nvr-dvr-xvr-beeping-noise/) <sub>February 05, 2026</sub>
 <!-- blog feed end -->
 
 > [**See more**](https://junian.net/)
