@@ -4,9 +4,9 @@
 <img src="./img/animated_metronome_cropped_transparent.svg" width="96" />
 -->
  
-# 👋 Hi
+# 👋 Hello
 
-I'm **Junian** the **Experienced Software Engineer** from [East Java](https://en.wikipedia.org/wiki/East_Java).
+I'm **Junian**, an **Experienced Software Engineer** from [East Java](https://en.wikipedia.org/wiki/East_Java), Indonesia.
 
 [![Junian Dev Website](https://img.shields.io/badge/Website-1a73e8?style=for-the-badge&logo=googlechrome&logoColor=white "Junian Dev Website")](https://www.junian.dev/)
 [![Junian Dev Tech Blog](https://img.shields.io/badge/Tech_Blog-1a73e8?style=for-the-badge&logo=hugo&logoColor=white "Junian Dev Tech Blog")](https://www.junian.dev/blog/)
