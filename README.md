@@ -1,8 +1,10 @@
 <div align="center">
-
+ 
+<!--
 <img src="./img/animated_metronome_cropped_transparent.svg" width="96" />
-
-# 👋 Hello, World!
+-->
+ 
+# 👋 Hi
 
 I'm **Junian** the **Experienced Software Engineer** from [East Java](https://en.wikipedia.org/wiki/East_Java).
 
