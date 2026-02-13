@@ -1,6 +1,7 @@
 ## Tech Blog
 
 <!-- feed start -->
+- `Feb 12, 2026` [How to Install Visual Studio 2017 Community (And Fix the Startup Error)](https://www.junian.net/dev/install-visual-studio-2017/)
 - `Feb 11, 2026` [Fixing .NET SDK Resolver Failure](https://www.junian.net/dev/dotnet-sdk-resolver-failure/)
 - `Feb 10, 2026` [How to Disable Liquid Glass Transparency on iPhone (iOS 26)](https://www.junian.net/tech/ios-disable-liquid-glass/)
 - `Feb 09, 2026` [CasaOS on macOS with External Drives](https://www.junian.net/tech/casaos-on-macos-with-external-drives/)
