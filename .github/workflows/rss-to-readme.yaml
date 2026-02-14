@@ -4,7 +4,8 @@ on:
   workflow_dispatch:
   push:
   schedule:
-    - cron: "15 12 * * *"
+    # Run at 21:15 UTC = 04:15 AM UTC+7, Everyday
+    - cron: "15 21 * * *"
 
 jobs:
   fetch-rss:
