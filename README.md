@@ -26,7 +26,7 @@ I'm **Junian**, an **Experienced Software Engineer** from [East Java](https://en
 
 - I like writing code in [C-family languages](https://en.wikipedia.org/wiki/List_of_C-family_programming_languages) with **C#** and **TypeScript** as my favorite.
 - I can speak 3 languages: English, Indonesian, and [Javanese](https://en.wikipedia.org/wiki/Javanese_language) with a little bit of [Javanese Script](https://en.wikipedia.org/wiki/Javanese_script).
-- ✍️ I author a [tech and coding blog](https://www.junian.net/) where I publish how-to guides and tutorials mostly about Apple Mac and iPhone. 29K+ monthly views and keep growing. The blog is powered by ~~Blogger~~ Hugo.
+- ✍️ I author a [tech and coding blog](https://www.junian.net/) where I publish how-to guides and tutorials mostly about Apple Mac and iPhone. **30K+** monthly views and keep growing. The blog is powered by ~~Blogger~~ Hugo.
 
 > [**Show me the code**](https://github.com/junian?tab=repositories&q=&type=&language=&sort=stargazers)
 
