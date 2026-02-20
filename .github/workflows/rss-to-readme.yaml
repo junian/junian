@@ -16,6 +16,7 @@ jobs:
         id: blog-feed
         with:
           url: |
+            https://www.juniandev.com/dev/index.xml
             https://www.junian.net/dev/index.xml
             https://www.junian.net/tech/index.xml
           file: 'README.md'
@@ -29,6 +30,7 @@ jobs:
         id: blog-feed-all
         with:
           url: |
+            https://www.juniandev.com/dev/index.xml
             https://www.junian.net/dev/index.xml
             https://www.junian.net/tech/index.xml
           file: 'blog/README.md'
