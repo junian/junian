@@ -33,11 +33,11 @@ I'm **Junian**, an **Experienced Software Engineer** from [East Java](https://en
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [How to Activate IndexNow with Cloudflare](https://www.juniandev.com/dev/cloudflare-indexnow/) <sub>February 21, 2026</sub>
+- [Using CommentBox in Jekyll Site](https://www.juniandev.com/dev/jekyll-commentbox/) <sub>February 20, 2026</sub>
 - [Xcode Command Line Tools Installation FAQ](https://www.junian.net/dev/xcode-command-line-tools-installation-faq/) <sub>February 19, 2026</sub>
-- [How to Integrate CommentBox to your Hugo Site](https://www.juniandev.com/dev/hugo-commentbox/) <sub>February 19, 2026</sub>
+- [How to Integrate CommentBox to Your Hugo Site](https://www.juniandev.com/dev/hugo-commentbox/) <sub>February 19, 2026</sub>
 - [Apple Logo  Character Emoji Keyboard Shortcut](https://www.junian.net/tech/apple-logo-character-emoji-keyboard-shortcut/) <sub>February 18, 2026</sub>
-- [Fix Drag and Drop Issue in the Finder App on macOS](https://www.junian.net/tech/macos-fix-drag-and-drop/) <sub>February 17, 2026</sub>
-- [How to Set Your MacBook Screen Resolution to 16:9](https://www.junian.net/tech/macos-16-9-screen-resolution/) <sub>February 16, 2026</sub>
 <!-- blog feed end -->
 
 > [**See more**](https://junian.net/)
