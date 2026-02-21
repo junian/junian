@@ -1,6 +1,7 @@
 ## Tech Blog
 
 <!-- feed start -->
+- `Feb 22, 2026` [How to Install Disqus to Jekyll Static Site](https://www.juniandev.com/dev/jekyll-disqus/)
 - `Feb 21, 2026` [How to Activate IndexNow with Cloudflare](https://www.juniandev.com/dev/cloudflare-indexnow/)
 - `Feb 20, 2026` [Using CommentBox in Jekyll Site](https://www.juniandev.com/dev/jekyll-commentbox/)
 - `Feb 19, 2026` [Xcode Command Line Tools Installation FAQ](https://www.junian.net/dev/xcode-command-line-tools-installation-faq/)
