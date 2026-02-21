@@ -1,36 +1,35 @@
 <div align="center">
- 
+
 <!--
 <img src="./img/animated_metronome_cropped_transparent.svg" width="96" />
 -->
- 
+
 # 👋 Hello
 
-I'm **Junian**, an **Experienced Software Engineer** from [East Java][east-java], Indonesia.
+I'm **Junian**, an **experienced software engineer** from [East Java][east-java], Indonesia.
 
-[![Junian Dev Website](https://img.shields.io/badge/Website-1a73e8?style=for-the-badge&logo=googlechrome&logoColor=white "Junian Dev Website")](https://www.junian.dev/)
-[![Junian Dev Tech Blog](https://img.shields.io/badge/Tech_Blog-1a73e8?style=for-the-badge&logo=hugo&logoColor=white "Junian Dev Tech Blog")][blog]
-[![Junian Dev YouTube Channel](https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white "Junian Dev YouTube Channel")][youtube]
-[![Hire Junian on Upwork](https://img.shields.io/badge/Hire_me-14a800?style=for-the-badge&logo=upwork&logoColor=white "Hire Junian on Upwork")](https://www.junian.dev/upwork/)
+[![Junian Dev Website](https://img.shields.io/badge/Website-1a73e8?style=for-the-badge\&logo=googlechrome\&logoColor=white "Junian Dev Website")](https://www.junian.dev/)
+[![Junian Dev Tech Blog](https://img.shields.io/badge/Tech_Blog-1a73e8?style=for-the-badge\&logo=hugo\&logoColor=white "Junian Dev Tech Blog")][blog]
+[![Junian Dev YouTube Channel](https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge\&logo=youtube\&logoColor=white "Junian Dev YouTube Channel")][youtube]
+[![Hire Junian on Upwork](https://img.shields.io/badge/Hire_me-14a800?style=for-the-badge\&logo=upwork\&logoColor=white "Hire Junian on Upwork")](https://www.junian.dev/upwork/)
 
 </div>
 
 <!--
 
-[![Junian YouTube](https://img.shields.io/youtube/channel/views/UCepvZYlW1tWJ8bu3dWLQh2w?style=for-the-badge&logo=youtube&label=YouTube&labelColor=ff0000&color=555555
- "Junian YouTube Channel")][youtube]
+[![Junian YouTube](https://img.shields.io/youtube/channel/views/UCepvZYlW1tWJ8bu3dWLQh2w?style=for-the-badge&logo=youtube&label=YouTube&labelColor=ff0000&color=555555 "Junian YouTube Channel")][youtube]
 
 -->
 
 ## 🧑‍💻 About Me
 
-- I like writing code in [C-family languages][c] with **C#** and **TypeScript** as my favorite.
-- I can speak 3 languages: English, Indonesian, and [Javanese][javanese] with a little bit of [Javanese Script][javanese-script].
-- ✍️ I author a [tech and coding blog][blog] where I publish how-to guides and tutorials.
-  - **30K++** monthly views and keep growing.
+- 🛠️ I enjoy writing code in [C-family languages][c], with **C#** and **TypeScript** as my favorites. Though with AI, almost any programming language is possible.
+- 🗣️ I can speak three languages: English, Indonesian, and [Javanese][javanese], plus a little bit of [Javanese script][javanese-script].
+- ✍️ I author a [tech and coding blog][blog] where I publish how-to guides and tutorials in simple language.
+  - **30K+** monthly views and growing.
   - The blog is powered by ~~Blogger~~ Hugo.
-- 🎬 I also create videos on [YouTube][youtube] with the same niche as my blog.
-  - **15K++** monthly views and keep growing.
+- 🎬 I also create videos on [YouTube][youtube] in the same niche as my blog.
+  - **15K+** monthly views and growing.
 
 > [**Show me the code**](https://github.com/junian?tab=repositories&q=&type=&language=&sort=stargazers)
 
