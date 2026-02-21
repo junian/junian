@@ -27,10 +27,10 @@ I'm **Junian**, an **Experienced Software Engineer** from [East Java][east-java]
 - I like writing code in [C-family languages][c] with **C#** and **TypeScript** as my favorite.
 - I can speak 3 languages: English, Indonesian, and [Javanese][javanese] with a little bit of [Javanese Script][javanese-script].
 - ✍️ I author a [tech and coding blog][blog] where I publish how-to guides and tutorials.
-  - **30K+** monthly views and keep growing.
+  - **30K++** monthly views and keep growing.
   - The blog is powered by ~~Blogger~~ Hugo.
 - 🎬 I also create videos on [YouTube][youtube] with the same niche as my blog.
-  - **15K** monthly views and keep growing.
+  - **15K++** monthly views and keep growing.
 
 > [**Show me the code**](https://github.com/junian?tab=repositories&q=&type=&language=&sort=stargazers)
 
