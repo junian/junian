@@ -6,11 +6,11 @@
  
 # 👋 Hello
 
-I'm **Junian**, an **Experienced Software Engineer** from [East Java](https://en.wikipedia.org/wiki/East_Java), Indonesia.
+I'm **Junian**, an **Experienced Software Engineer** from [East Java][east-java], Indonesia.
 
 [![Junian Dev Website](https://img.shields.io/badge/Website-1a73e8?style=for-the-badge&logo=googlechrome&logoColor=white "Junian Dev Website")](https://www.junian.dev/)
-[![Junian Dev Tech Blog](https://img.shields.io/badge/Tech_Blog-1a73e8?style=for-the-badge&logo=hugo&logoColor=white "Junian Dev Tech Blog")](https://www.junian.dev/blog/)
-[![Junian Dev YouTube Channel](https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white "Junian Dev YouTube Channel")](https://www.junian.dev/youtube/)
+[![Junian Dev Tech Blog](https://img.shields.io/badge/Tech_Blog-1a73e8?style=for-the-badge&logo=hugo&logoColor=white "Junian Dev Tech Blog")][blog]
+[![Junian Dev YouTube Channel](https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white "Junian Dev YouTube Channel")][youtube]
 [![Hire Junian on Upwork](https://img.shields.io/badge/Hire_me-14a800?style=for-the-badge&logo=upwork&logoColor=white "Hire Junian on Upwork")](https://www.junian.dev/upwork/)
 
 </div>
@@ -18,15 +18,19 @@ I'm **Junian**, an **Experienced Software Engineer** from [East Java](https://en
 <!--
 
 [![Junian YouTube](https://img.shields.io/youtube/channel/views/UCepvZYlW1tWJ8bu3dWLQh2w?style=for-the-badge&logo=youtube&label=YouTube&labelColor=ff0000&color=555555
- "Junian YouTube Channel")](https://www.youtube.com/@JunianDev)
+ "Junian YouTube Channel")][youtube]
 
 -->
 
 ## 🧑‍💻 About Me
 
-- I like writing code in [C-family languages](https://en.wikipedia.org/wiki/List_of_C-family_programming_languages) with **C#** and **TypeScript** as my favorite.
-- I can speak 3 languages: English, Indonesian, and [Javanese](https://en.wikipedia.org/wiki/Javanese_language) with a little bit of [Javanese Script](https://en.wikipedia.org/wiki/Javanese_script).
-- ✍️ I author a [tech and coding blog](https://www.junian.net/) where I publish how-to guides and tutorials mostly about Apple Mac and iPhone. **30K+** monthly views and keep growing. The blog is powered by ~~Blogger~~ Hugo.
+- I like writing code in [C-family languages][c] with **C#** and **TypeScript** as my favorite.
+- I can speak 3 languages: English, Indonesian, and [Javanese][javanese] with a little bit of [Javanese Script][javanese-script].
+- ✍️ I author a [tech and coding blog][blog] where I publish how-to guides and tutorials.
+  - **30K+** monthly views and keep growing.
+  - The blog is powered by ~~Blogger~~ Hugo.
+- 🎬 I also create videos on [YouTube][youtube] with the same niche as my blog.
+  - **15K** monthly views and keep growing.
 
 > [**Show me the code**](https://github.com/junian?tab=repositories&q=&type=&language=&sort=stargazers)
 
@@ -53,3 +57,10 @@ I'm **Junian**, an **Experienced Software Engineer** from [East Java](https://en
 <!-- youtube feed end -->
 
 > [**See more**](https://junian.net/yt/)
+
+[youtube]: https://www.youtube.com/@juniandev "Junian Dev Official YouTube Channel"
+[blog]: https://www.junian.net "Junian Dev Official Website"
+[javanese]: https://en.wikipedia.org/wiki/Javanese_language
+[javanese-script]: https://en.wikipedia.org/wiki/Javanese_script
+[east-java]: https://en.wikipedia.org/wiki/East_Java
+[c]: https://en.wikipedia.org/wiki/List_of_C-family_programming_languages
