@@ -48,11 +48,11 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 ## 🎬 Recent YouTube Videos
 
 <!-- youtube feed start -->
+- [Build a Cat Photo App Step 1 to 42 - freeCodeCamp Responsive Web Design Certification v9 Guide](https://www.youtube.com/watch?v=zwoYGmsDpW8) <sub>February 26, 2026</sub>
 - [Build a Curriculum Outline Step 1 to 11 - freeCodeCamp Responsive Web Design Walkthrough V9](https://www.youtube.com/watch?v=Ertsaiqcfk4) <sub>February 25, 2026</sub>
 - [How to Disable Liquid Glass on iPad (iPadOS 26) – Reduce Transparency for Better Readability on iPad](https://www.youtube.com/watch?v=3BG6uVkgNsc) <sub>February 18, 2026</sub>
 - [Installing Visual Studio Community Edition 2015 in 2026 - Visual Studio Older Versions Download](https://www.youtube.com/watch?v=jiCI4KK7aWw) <sub>February 17, 2026</sub>
 - [How to Disable Liquid Glass on macOS 26 Tahoe - Reduce Transparency of any macOS UI](https://www.youtube.com/watch?v=MddF_MUFBBI) <sub>February 13, 2026</sub>
-- [Installing Visual Studio Community 2017 in 2026 and fixing startup error - Older Versions Download](https://www.youtube.com/watch?v=caHVWmJjHuE) <sub>February 12, 2026</sub>
 <!-- youtube feed end -->
 
 > [**See more**](https://junian.net/yt/)
