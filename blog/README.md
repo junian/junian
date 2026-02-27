@@ -1,6 +1,8 @@
 ## Tech Blog
 
 <!-- feed start -->
+- `Feb 28, 2026` [Cloudflare Intermediate Certs](https://www.juniandev.com/dev/cloudflare-intermediate-certs/)
+- `Feb 28, 2026` [I Challenge Myself to Complete freeCodeCamp Responsive Web Design V9 Certification](https://www.junian.net/dev/freecodecamp-responsive-web-design-v9/)
 - `Feb 27, 2026` [Deploy Marp Markdown Presentations to GitHub Pages with GitHub Actions](https://www.juniandev.com/dev/deploy-marp-to-github-pages/)
 - `Feb 26, 2026` [How to Generate Multiple Markdown Presentations to Pretty URL HTML with Marp and JavaScript](https://www.juniandev.com/dev/marp-generate-multiple-presentations/)
 - `Feb 26, 2026` [How to Take a macOS Window Screenshot Without the Shadow Background](https://www.junian.net/tech/macos-screenshot-without-shadow/)

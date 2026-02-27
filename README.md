@@ -36,6 +36,8 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [Cloudflare Intermediate Certs](https://www.juniandev.com/dev/cloudflare-intermediate-certs/) <sub>February 28, 2026</sub>
+- [I Challenge Myself to Complete freeCodeCamp Responsive Web Design V9 Certification](https://www.junian.net/dev/freecodecamp-responsive-web-design-v9/) <sub>February 28, 2026</sub>
 - [Deploy Marp Markdown Presentations to GitHub Pages with GitHub Actions](https://www.juniandev.com/dev/deploy-marp-to-github-pages/) <sub>February 27, 2026</sub>
 - [How to Generate Multiple Markdown Presentations to Pretty URL HTML with Marp and JavaScript](https://www.juniandev.com/dev/marp-generate-multiple-presentations/) <sub>February 26, 2026</sub>
 - [How to Take a macOS Window Screenshot Without the Shadow Background](https://www.junian.net/tech/macos-screenshot-without-shadow/) <sub>February 26, 2026</sub>
@@ -44,8 +46,6 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 - [How to Check if Content Is Draft or a Future Post in a Hugo Template](https://www.juniandev.com/dev/hugo-check-content-draft-future/) <sub>February 24, 2026</sub>
 - [How to Take Screenshot on Mac with Keyboard Shortcuts](https://www.junian.net/tech/macos-screenshot-shortcuts/) <sub>February 24, 2026</sub>
 - [How to Redirect Netlify Deploy Preview URL to Production URL](https://www.juniandev.com/dev/redirect-netlify-deploy-preview-url/) <sub>February 23, 2026</sub>
-- [Install .NET 11 SDK Preview on macOS Side-by-Side with Homebrew](https://www.junian.net/dev/install-dotnet-sdk-11-macos/) <sub>February 23, 2026</sub>
-- [How to Install Disqus to Jekyll Static Site](https://www.juniandev.com/dev/jekyll-disqus/) <sub>February 22, 2026</sub>
 <!-- blog feed end -->
 
 > [**See more**](https://junian.net/)
