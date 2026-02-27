@@ -87,7 +87,7 @@
 - `Mar 10, 2025` [Git Pull 'Rebase in Progress' Issue](https://www.junian.net/dev/git-pull-rebase-in-progress/)
 - `Mar 09, 2025` [WinForms 32-bit 'Designer Could Not Be Shown' Issue](https://www.junian.net/dev/dotnet-winforms-32bit-designer-issue/)
 - `Feb 13, 2025` [Solving the Xamarin.Forms iOS 'Could Not Load the Framework IDEDistribution' Issue](https://www.junian.net/dev/xamarin-forms-ios-framework-idedistribution-issue/)
-- `Feb 13, 2025` [freeCodeCamp Responsive Web Design Learning Journey](https://www.junian.net/dev/learn-freecodecamp-responsive-web-design/)
+- `Feb 13, 2025` [freeCodeCamp Responsive Web Design Learning Journey (V8 / 2022 Curriculum)](https://www.junian.net/dev/learn-freecodecamp-responsive-web-design/)
 - `Jan 29, 2025` [Elevate Your Tech Business: Building a Powerful Social Media Presence with Adobe Express](https://www.junian.net/tech/building-a-powerful-social-media-presence-with-adobe-express/)
 - `Jan 03, 2025` [How I Accidentally Discovered Crypto-Miner Malware (perfctl) on an Ubuntu Server](https://www.junian.net/tech/ubuntu-perfctl-malware-mongodb-not-running/)
 - `Dec 23, 2024` [How to Use TP-Link Tether Without a TP-Link ID](https://www.junian.net/tech/tp-link-tether-without-tp-link-id/)
