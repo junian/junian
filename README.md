@@ -36,6 +36,7 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [Setting Up Netlify Site with Cloudflare Proxy](https://www.juniandev.com/dev/netlify-with-cloudflare-proxy/) <sub>March 01, 2026</sub>
 - [Cloudflare Intermediate Certs](https://www.juniandev.com/dev/cloudflare-intermediate-certs/) <sub>February 28, 2026</sub>
 - [I Challenge Myself to Complete freeCodeCamp Responsive Web Design V9 Certification](https://www.junian.net/dev/freecodecamp-responsive-web-design-v9/) <sub>February 28, 2026</sub>
 - [Deploy Marp Markdown Presentations to GitHub Pages with GitHub Actions](https://www.juniandev.com/dev/deploy-marp-to-github-pages/) <sub>February 27, 2026</sub>
@@ -45,7 +46,6 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 - [Install TradeNote on Windows](https://www.junian.net/dev/install-tradenote-on-windows/) <sub>February 25, 2026</sub>
 - [How to Check if Content Is Draft or a Future Post in a Hugo Template](https://www.juniandev.com/dev/hugo-check-content-draft-future/) <sub>February 24, 2026</sub>
 - [How to Take Screenshot on Mac with Keyboard Shortcuts](https://www.junian.net/tech/macos-screenshot-shortcuts/) <sub>February 24, 2026</sub>
-- [How to Redirect Netlify Deploy Preview URL to Production URL](https://www.juniandev.com/dev/redirect-netlify-deploy-preview-url/) <sub>February 23, 2026</sub>
 <!-- blog feed end -->
 
 > [**See more**](https://junian.net/)
