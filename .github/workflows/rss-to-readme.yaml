@@ -47,7 +47,7 @@ jobs:
           file: 'README.md'
           format: '- [${title}](${url}) <sub>${monthlong} ${02day}, ${year}</sub>'
           timezone: 'Asia/Jakarta'
-          max_entry: 5
+          max_entry: 10
           start_flag: '<!-- youtube feed start -->'
           end_flag: '<!-- youtube feed end -->'
           ensure_all: true
