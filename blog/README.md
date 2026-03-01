@@ -1,6 +1,7 @@
 ## Tech Blog
 
 <!-- feed start -->
+- `Mar 02, 2026` [Hugo YouTube Playlist Shortcode](https://www.juniandev.com/dev/hugo-youtube-playlist-shortcode/)
 - `Mar 01, 2026` [Setting Up Netlify Site with Cloudflare Proxy](https://www.juniandev.com/dev/netlify-with-cloudflare-proxy/)
 - `Feb 28, 2026` [Cloudflare Intermediate Certs](https://www.juniandev.com/dev/cloudflare-intermediate-certs/)
 - `Feb 28, 2026` [I Challenge Myself to Complete freeCodeCamp Responsive Web Design V9 Certification](https://www.junian.net/dev/freecodecamp-responsive-web-design-v9/)

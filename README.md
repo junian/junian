@@ -36,6 +36,7 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [Hugo YouTube Playlist Shortcode](https://www.juniandev.com/dev/hugo-youtube-playlist-shortcode/) <sub>March 02, 2026</sub>
 - [Setting Up Netlify Site with Cloudflare Proxy](https://www.juniandev.com/dev/netlify-with-cloudflare-proxy/) <sub>March 01, 2026</sub>
 - [Cloudflare Intermediate Certs](https://www.juniandev.com/dev/cloudflare-intermediate-certs/) <sub>February 28, 2026</sub>
 - [I Challenge Myself to Complete freeCodeCamp Responsive Web Design V9 Certification](https://www.junian.net/dev/freecodecamp-responsive-web-design-v9/) <sub>February 28, 2026</sub>
@@ -45,7 +46,6 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 - [Redirect Netlify Preview URL with Hugo](https://www.juniandev.com/dev/hugo-redirect-netlify-preview-url/) <sub>February 25, 2026</sub>
 - [Install TradeNote on Windows](https://www.junian.net/dev/install-tradenote-on-windows/) <sub>February 25, 2026</sub>
 - [How to Check if Content Is Draft or a Future Post in a Hugo Template](https://www.juniandev.com/dev/hugo-check-content-draft-future/) <sub>February 24, 2026</sub>
-- [How to Take Screenshot on Mac with Keyboard Shortcuts](https://www.junian.net/tech/macos-screenshot-shortcuts/) <sub>February 24, 2026</sub>
 <!-- blog feed end -->
 
 > [**See more**](https://junian.net/)
@@ -53,6 +53,7 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 ## 🎬 Recent YouTube Videos
 
 <!-- youtube feed start -->
+- [Debug a Pet Adoption Page - freeCodeCamp Responsive Web Design HTML Guide](https://www.youtube.com/watch?v=BJ0lF9dqtsA) <sub>March 02, 2026</sub>
 - [Debug Camperbot's Profile Page - freeCodeCamp Responsive Web Design HTML Course](https://www.youtube.com/watch?v=qW-TlQ30mpo) <sub>March 01, 2026</sub>
 - [Build a Bookstore Page Step 1 to 19 - freeCodeCamp Responsive Web Design v9 Guide](https://www.youtube.com/watch?v=KW3QKPVxAqA) <sub>February 27, 2026</sub>
 - [Build a Cat Photo App Step 1 to 42 - freeCodeCamp Responsive Web Design Certification v9 Guide](https://www.youtube.com/watch?v=zwoYGmsDpW8) <sub>February 26, 2026</sub>
@@ -62,7 +63,6 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 - [How to Disable Liquid Glass on macOS 26 Tahoe - Reduce Transparency of any macOS UI](https://www.youtube.com/watch?v=MddF_MUFBBI) <sub>February 13, 2026</sub>
 - [Installing Visual Studio Community 2017 in 2026 and fixing startup error - Older Versions Download](https://www.youtube.com/watch?v=caHVWmJjHuE) <sub>February 12, 2026</sub>
 - [FiberHome HG6145F1 Admin Password - GPON ONU Router / Modem Default Admin Password](https://www.youtube.com/watch?v=yXLriGOsXp4) <sub>February 11, 2026</sub>
-- [How to Disable Liquid Glass on iPhone with iOS 26 - Reduce Transparency of any iPhone](https://www.youtube.com/watch?v=ug3EtEy4CF4) <sub>February 10, 2026</sub>
 <!-- youtube feed end -->
 
 > [**See more**](https://junian.net/yt/)
