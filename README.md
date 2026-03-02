@@ -36,7 +36,7 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
-- [Hugo YouTube Playlist Shortcode](https://www.juniandev.com/dev/hugo-youtube-playlist-shortcode/) <sub>March 02, 2026</sub>
+- [Embed YouTube Playlist in Hugo with Shortcode](https://www.juniandev.com/dev/hugo-youtube-playlist-shortcode/) <sub>March 02, 2026</sub>
 - [Setting Up Netlify Site with Cloudflare Proxy](https://www.juniandev.com/dev/netlify-with-cloudflare-proxy/) <sub>March 01, 2026</sub>
 - [Cloudflare Intermediate Certs](https://www.juniandev.com/dev/cloudflare-intermediate-certs/) <sub>February 28, 2026</sub>
 - [I Challenge Myself to Complete freeCodeCamp Responsive Web Design V9 Certification](https://www.junian.net/dev/freecodecamp-responsive-web-design-v9/) <sub>February 28, 2026</sub>
