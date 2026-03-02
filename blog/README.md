@@ -1,6 +1,8 @@
 ## Tech Blog
 
 <!-- feed start -->
+- `Mar 03, 2026` [Simple <kbd> Css](https://www.juniandev.com/dev/simple-kbd-css/)
+- `Mar 03, 2026` [File Copy, Cut, and Paste Keyboard Shortcuts on Mac](https://www.junian.net/tech/mac-file-copy-cut-paste-keyboard-shortcuts/)
 - `Mar 02, 2026` [Embed YouTube Playlist in Hugo with Shortcode](https://www.juniandev.com/dev/hugo-youtube-playlist-shortcode/)
 - `Mar 01, 2026` [Setting Up Netlify Site with Cloudflare Proxy](https://www.juniandev.com/dev/netlify-with-cloudflare-proxy/)
 - `Feb 28, 2026` [Cloudflare Intermediate Certs](https://www.juniandev.com/dev/cloudflare-intermediate-certs/)
