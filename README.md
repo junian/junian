@@ -36,6 +36,7 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [Don't forget to Accept Xcode License for every update](https://www.juniandev.com/dev/xcode-accept-license/) <sub>March 04, 2026</sub>
 - [Simple <kbd> Css](https://www.juniandev.com/dev/simple-kbd-css/) <sub>March 03, 2026</sub>
 - [File Copy, Cut, and Paste Keyboard Shortcuts on Mac](https://www.junian.net/tech/mac-file-copy-cut-paste-keyboard-shortcuts/) <sub>March 03, 2026</sub>
 - [Embed YouTube Playlist in Hugo with Shortcode](https://www.juniandev.com/dev/hugo-youtube-playlist-shortcode/) <sub>March 02, 2026</sub>
@@ -45,7 +46,6 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 - [Deploy Marp Markdown Presentations to GitHub Pages with GitHub Actions](https://www.juniandev.com/dev/deploy-marp-to-github-pages/) <sub>February 27, 2026</sub>
 - [How to Generate Multiple Markdown Presentations to Pretty URL HTML with Marp and JavaScript](https://www.juniandev.com/dev/marp-generate-multiple-presentations/) <sub>February 26, 2026</sub>
 - [How to Take a macOS Window Screenshot Without the Shadow Background](https://www.junian.net/tech/macos-screenshot-without-shadow/) <sub>February 26, 2026</sub>
-- [Redirect Netlify Preview URL with Hugo](https://www.juniandev.com/dev/hugo-redirect-netlify-preview-url/) <sub>February 25, 2026</sub>
 <!-- blog feed end -->
 
 > [**See more**](https://junian.net/)
@@ -53,6 +53,7 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 ## 🎬 Recent YouTube Videos
 
 <!-- youtube feed start -->
+- [Build a Travel Agency Page - freeCodeCamp Responsive Web Design HTML Lab Guide](https://www.youtube.com/watch?v=xXj53A_5sMY) <sub>March 04, 2026</sub>
 - [Build a Recipe Page - freeCodeCamp Responsive Web Design HTML Guide](https://www.youtube.com/watch?v=_EIwe5DnYdg) <sub>March 03, 2026</sub>
 - [Debug a Pet Adoption Page - freeCodeCamp Responsive Web Design HTML Guide](https://www.youtube.com/watch?v=BJ0lF9dqtsA) <sub>March 02, 2026</sub>
 - [Debug Camperbot's Profile Page - freeCodeCamp Responsive Web Design HTML Course](https://www.youtube.com/watch?v=qW-TlQ30mpo) <sub>March 01, 2026</sub>
@@ -62,7 +63,6 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 - [How to Disable Liquid Glass on iPad (iPadOS 26) – Reduce Transparency for Better Readability on iPad](https://www.youtube.com/watch?v=3BG6uVkgNsc) <sub>February 18, 2026</sub>
 - [Installing Visual Studio Community Edition 2015 in 2026 - Visual Studio Older Versions Download](https://www.youtube.com/watch?v=jiCI4KK7aWw) <sub>February 17, 2026</sub>
 - [How to Disable Liquid Glass on macOS 26 Tahoe - Reduce Transparency of any macOS UI](https://www.youtube.com/watch?v=MddF_MUFBBI) <sub>February 13, 2026</sub>
-- [Installing Visual Studio Community 2017 in 2026 and fixing startup error - Older Versions Download](https://www.youtube.com/watch?v=caHVWmJjHuE) <sub>February 12, 2026</sub>
 <!-- youtube feed end -->
 
 > [**See more**](https://junian.net/yt/)

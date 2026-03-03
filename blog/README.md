@@ -1,6 +1,7 @@
 ## Tech Blog
 
 <!-- feed start -->
+- `Mar 04, 2026` [Don't forget to Accept Xcode License for every update](https://www.juniandev.com/dev/xcode-accept-license/)
 - `Mar 03, 2026` [Simple <kbd> Css](https://www.juniandev.com/dev/simple-kbd-css/)
 - `Mar 03, 2026` [File Copy, Cut, and Paste Keyboard Shortcuts on Mac](https://www.junian.net/tech/mac-file-copy-cut-paste-keyboard-shortcuts/)
 - `Mar 02, 2026` [Embed YouTube Playlist in Hugo with Shortcode](https://www.juniandev.com/dev/hugo-youtube-playlist-shortcode/)
