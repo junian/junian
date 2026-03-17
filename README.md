@@ -53,6 +53,7 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 ## 🎬 Recent YouTube Videos
 
 <!-- youtube feed start -->
+- [Start macOS Recovery Internet Access without Wi-Fi (USB-C to Ethernet, Android Ethernet Tethering)](https://www.youtube.com/watch?v=IBQ2k9i434A) <sub>March 17, 2026</sub>
 - [Build a Travel Agency Page - freeCodeCamp Responsive Web Design HTML Lab Guide](https://www.youtube.com/watch?v=xXj53A_5sMY) <sub>March 04, 2026</sub>
 - [Build a Recipe Page - freeCodeCamp Responsive Web Design HTML Guide](https://www.youtube.com/watch?v=_EIwe5DnYdg) <sub>March 03, 2026</sub>
 - [Debug a Pet Adoption Page - freeCodeCamp Responsive Web Design HTML Guide](https://www.youtube.com/watch?v=BJ0lF9dqtsA) <sub>March 02, 2026</sub>
@@ -62,7 +63,6 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 - [Build a Curriculum Outline Step 1 to 11 - freeCodeCamp Responsive Web Design Walkthrough V9](https://www.youtube.com/watch?v=Ertsaiqcfk4) <sub>February 25, 2026</sub>
 - [How to Disable Liquid Glass on iPad (iPadOS 26) – Reduce Transparency for Better Readability on iPad](https://www.youtube.com/watch?v=3BG6uVkgNsc) <sub>February 18, 2026</sub>
 - [Download and Install Visual Studio 2015 Community Edition in 2026 - Visual Studio Older Versions](https://www.youtube.com/watch?v=jiCI4KK7aWw) <sub>February 17, 2026</sub>
-- [How to Disable Liquid Glass on macOS 26 Tahoe - Reduce Transparency of any macOS UI](https://www.youtube.com/watch?v=MddF_MUFBBI) <sub>February 13, 2026</sub>
 <!-- youtube feed end -->
 
 > [**See more**](https://junian.net/yt/)
