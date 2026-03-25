@@ -36,6 +36,7 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [How to Set an 80% Battery Charge Limit on MacBook without Third-Party App](https://www.junian.net/tech/macbook-battery-charge-limit/) <sub>March 25, 2026</sub>
 - [How to Start macOS Recovery and Connect to the Internet Without Wi-Fi](https://www.junian.net/tech/macos-recovery-internet-without-wifi/) <sub>March 20, 2026</sub>
 - [Fix Missing Wi-Fi in Recovery Assistant After Resetting Your Mac](https://www.junian.net/tech/macos-recovery-fix-missing-wifi/) <sub>March 19, 2026</sub>
 - [Install Mendeley Desktop for Mac with Homebrew](https://www.junian.net/tech/mendeley-desktop-mac-homebrew/) <sub>March 16, 2026</sub>
@@ -45,7 +46,6 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 - [Embed YouTube Playlist in Hugo with Shortcode](https://www.juniandev.com/dev/hugo-youtube-playlist-shortcode/) <sub>March 02, 2026</sub>
 - [Setting Up Netlify Site with Cloudflare Proxy](https://www.juniandev.com/dev/netlify-with-cloudflare-proxy/) <sub>March 01, 2026</sub>
 - [Cloudflare Intermediate Certs](https://www.juniandev.com/dev/cloudflare-intermediate-certs/) <sub>February 28, 2026</sub>
-- [I Challenge Myself to Complete freeCodeCamp Responsive Web Design V9 Certification](https://www.junian.net/dev/freecodecamp-responsive-web-design-v9/) <sub>February 28, 2026</sub>
 <!-- blog feed end -->
 
 > [**See more**](https://junian.net/)
@@ -53,6 +53,7 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 ## 🎬 Recent YouTube Videos
 
 <!-- youtube feed start -->
+- [Setting MacBook 80% Battery Charge Limit without 3rd party app - macOS Tahoe 26.4 New Feature!](https://www.youtube.com/watch?v=Tl66jvgKMGw) <sub>March 25, 2026</sub>
 - [Start macOS Recovery Internet Access without Wi-Fi (USB-C to Ethernet, Android Ethernet Tethering)](https://www.youtube.com/watch?v=IBQ2k9i434A) <sub>March 17, 2026</sub>
 - [Build a Travel Agency Page - freeCodeCamp Responsive Web Design HTML Lab Guide](https://www.youtube.com/watch?v=xXj53A_5sMY) <sub>March 04, 2026</sub>
 - [Build a Recipe Page - freeCodeCamp Responsive Web Design HTML Guide](https://www.youtube.com/watch?v=_EIwe5DnYdg) <sub>March 03, 2026</sub>
@@ -62,7 +63,6 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 - [Build a Cat Photo App Step 1 to 42 - freeCodeCamp Responsive Web Design Certification v9 Guide](https://www.youtube.com/watch?v=zwoYGmsDpW8) <sub>February 26, 2026</sub>
 - [Build a Curriculum Outline Step 1 to 11 - freeCodeCamp Responsive Web Design Walkthrough V9](https://www.youtube.com/watch?v=Ertsaiqcfk4) <sub>February 25, 2026</sub>
 - [How to Disable Liquid Glass on iPad (iPadOS 26) – Reduce Transparency for Better Readability on iPad](https://www.youtube.com/watch?v=3BG6uVkgNsc) <sub>February 18, 2026</sub>
-- [Download and Install Visual Studio 2015 Community Edition in 2026 - Visual Studio Older Versions](https://www.youtube.com/watch?v=jiCI4KK7aWw) <sub>February 17, 2026</sub>
 <!-- youtube feed end -->
 
 > [**See more**](https://junian.net/yt/)
