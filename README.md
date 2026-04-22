@@ -53,6 +53,7 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 ## 🎬 Recent YouTube Videos
 
 <!-- youtube feed start -->
+- [Download and Install Visual Studio 2013 Community in 2026 - Visual Studio Older Versions Download](https://www.youtube.com/watch?v=7JPRpcBX0yA) <sub>April 22, 2026</sub>
 - [Setting MacBook 80% Battery Charge Limit without 3rd party app - macOS Tahoe 26.4 New Feature!](https://www.youtube.com/watch?v=Tl66jvgKMGw) <sub>March 25, 2026</sub>
 - [Start macOS Recovery Internet Access without Wi-Fi (USB-C to Ethernet, Android Ethernet Tethering)](https://www.youtube.com/watch?v=IBQ2k9i434A) <sub>March 17, 2026</sub>
 - [Build a Travel Agency Page - freeCodeCamp Responsive Web Design HTML Lab Guide](https://www.youtube.com/watch?v=xXj53A_5sMY) <sub>March 04, 2026</sub>
@@ -62,7 +63,6 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 - [Build a Bookstore Page Step 1 to 19 - freeCodeCamp Responsive Web Design v9 Guide](https://www.youtube.com/watch?v=KW3QKPVxAqA) <sub>February 27, 2026</sub>
 - [Build a Cat Photo App Step 1 to 42 - freeCodeCamp Responsive Web Design Certification v9 Guide](https://www.youtube.com/watch?v=zwoYGmsDpW8) <sub>February 26, 2026</sub>
 - [Build a Curriculum Outline Step 1 to 11 - freeCodeCamp Responsive Web Design Walkthrough V9](https://www.youtube.com/watch?v=Ertsaiqcfk4) <sub>February 25, 2026</sub>
-- [How to Disable Liquid Glass on iPad (iPadOS 26) – Reduce Transparency for Better Readability on iPad](https://www.youtube.com/watch?v=3BG6uVkgNsc) <sub>February 18, 2026</sub>
 <!-- youtube feed end -->
 
 > [**See more**](https://junian.net/yt/)
