@@ -36,16 +36,16 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
-- [Finding the Boundaries of Pre-Made Art in Healthcare SaaS Dashboards](https://www.junian.net/tech/finding-the-boundaries-of-pre-made-art-in-healthcare-saas-dashboards/) <sub>April 17, 2026</sub>
-- [How to Set an 80% Battery Charge Limit on MacBook without Third-Party App](https://www.junian.net/tech/macbook-battery-charge-limit/) <sub>March 25, 2026</sub>
-- [How to Start macOS Recovery and Connect to the Internet Without Wi-Fi](https://www.junian.net/tech/macos-recovery-internet-without-wifi/) <sub>March 20, 2026</sub>
-- [Fix Missing Wi-Fi in Recovery Assistant After Resetting Your Mac](https://www.junian.net/tech/macos-recovery-fix-missing-wifi/) <sub>March 19, 2026</sub>
-- [Install Mendeley Desktop for Mac with Homebrew](https://www.junian.net/tech/mendeley-desktop-mac-homebrew/) <sub>March 16, 2026</sub>
-- [Don't forget to Accept Xcode License for every update](https://www.juniandev.com/dev/xcode-accept-license/) <sub>March 04, 2026</sub>
-- [Simple <kbd> Css](https://www.juniandev.com/dev/simple-kbd-css/) <sub>March 03, 2026</sub>
-- [File Copy, Cut, and Paste Keyboard Shortcuts on Mac](https://www.junian.net/tech/mac-file-copy-cut-paste-keyboard-shortcuts/) <sub>March 03, 2026</sub>
-- [Embed YouTube Playlist in Hugo with Shortcode](https://www.juniandev.com/dev/hugo-youtube-playlist-shortcode/) <sub>March 02, 2026</sub>
-- [Setting Up Netlify Site with Cloudflare Proxy](https://www.juniandev.com/dev/netlify-with-cloudflare-proxy/) <sub>March 01, 2026</sub>
+- [Idea](https://www.junian.dev/ideas/) <sub>May 05, 2026</sub>
+- [Now](https://www.junian.dev/now/) <sub>May 05, 2026</sub>
+- [What I Use](https://www.junian.dev/uses/) <sub>May 05, 2026</sub>
+- [Cloudflare Intermediate Certs](https://www.junian.dev/dev/cloudflare-intermediate-certs/) <sub>April 30, 2026</sub>
+- [Cloudflare Intermediate Certs](https://www.junian.dev/dev/cloudflare-intermediate-certs/) <sub>April 30, 2026</sub>
+- [Deploy Marp Markdown Presentations to GitHub Pages with GitHub Actions](https://www.junian.dev/dev/deploy-marp-to-github-pages/) <sub>April 29, 2026</sub>
+- [Deploy Marp Markdown Presentations to GitHub Pages with GitHub Actions](https://www.junian.dev/dev/deploy-marp-to-github-pages/) <sub>April 29, 2026</sub>
+- [Embed YouTube Playlist in Hugo with Shortcode](https://www.junian.dev/dev/hugo-youtube-playlist-shortcode/) <sub>April 28, 2026</sub>
+- [Embed YouTube Playlist in Hugo with Shortcode](https://www.junian.dev/dev/hugo-youtube-playlist-shortcode/) <sub>April 28, 2026</sub>
+- [Generate Multiple Pretty URL Presentations with Marp and JavaScript](https://www.junian.dev/dev/marp-generate-multiple-presentations/) <sub>April 27, 2026</sub>
 <!-- blog feed end -->
 
 > [**See more**](https://junian.net/)
