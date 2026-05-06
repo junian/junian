@@ -2,6 +2,7 @@
 
 <!-- feed start -->
 - `May 05, 2026` [Idea](https://www.junian.dev/ideas/)
+- `May 05, 2026` [junian.net is now junian.dev](https://www.junian.dev/blog/dotnet-to-dotdev-domain-migration/)
 - `May 05, 2026` [Now](https://www.junian.dev/now/)
 - `May 05, 2026` [What I Use](https://www.junian.dev/uses/)
 - `Apr 30, 2026` [Cloudflare Intermediate Certs](https://www.junian.dev/dev/cloudflare-intermediate-certs/)

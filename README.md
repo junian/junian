@@ -37,6 +37,7 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 
 <!-- blog feed start -->
 - [Idea](https://www.junian.dev/ideas/) <sub>May 05, 2026</sub>
+- [junian.net is now junian.dev](https://www.junian.dev/blog/dotnet-to-dotdev-domain-migration/) <sub>May 05, 2026</sub>
 - [Now](https://www.junian.dev/now/) <sub>May 05, 2026</sub>
 - [What I Use](https://www.junian.dev/uses/) <sub>May 05, 2026</sub>
 - [Cloudflare Intermediate Certs](https://www.junian.dev/dev/cloudflare-intermediate-certs/) <sub>April 30, 2026</sub>
@@ -45,7 +46,6 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 - [Deploy Marp Markdown Presentations to GitHub Pages with GitHub Actions](https://www.junian.dev/dev/deploy-marp-to-github-pages/) <sub>April 29, 2026</sub>
 - [Embed YouTube Playlist in Hugo with Shortcode](https://www.junian.dev/dev/hugo-youtube-playlist-shortcode/) <sub>April 28, 2026</sub>
 - [Embed YouTube Playlist in Hugo with Shortcode](https://www.junian.dev/dev/hugo-youtube-playlist-shortcode/) <sub>April 28, 2026</sub>
-- [Generate Multiple Pretty URL Presentations with Marp and JavaScript](https://www.junian.dev/dev/marp-generate-multiple-presentations/) <sub>April 27, 2026</sub>
 <!-- blog feed end -->
 
 > [**See more**](https://junian.net/)
