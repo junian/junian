@@ -8,8 +8,7 @@
 
 I'm **Junian**, an **experienced software engineer** from [East Java][east-java], Indonesia.
 
-[![Junian Dev Website](https://img.shields.io/badge/Website-1a73e8?style=for-the-badge\&logo=googlechrome\&logoColor=white "Junian Dev Website")](https://www.junian.dev/)
-[![Junian Dev Tech Blog](https://img.shields.io/badge/Tech_Blog-1a73e8?style=for-the-badge\&logo=hugo\&logoColor=white "Junian Dev Tech Blog")][blog]
+[![Junian Dev Tech Blog](https://img.shields.io/badge/Website-1a73e8?style=for-the-badge\&logo=hugo\&logoColor=white "Junian Dev Tech Blog")][blog]
 [![Junian Dev YouTube Channel](https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge\&logo=youtube\&logoColor=white "Junian Dev YouTube Channel")][youtube]
 [![Hire Junian on Upwork](https://img.shields.io/badge/Hire_me-14a800?style=for-the-badge\&logo=upwork\&logoColor=white "Hire Junian on Upwork")](https://www.junian.dev/upwork/)
 
@@ -68,7 +67,7 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 > [**See more**](https://junian.net/yt/)
 
 [youtube]: https://www.youtube.com/@juniandev "Junian Dev Official YouTube Channel"
-[blog]: https://www.junian.net "Junian Dev Official Website"
+[blog]: https://www.junian.dev "Junian Dev Official Website"
 [javanese]: https://en.wikipedia.org/wiki/Javanese_language
 [javanese-script]: https://en.wikipedia.org/wiki/Javanese_script
 [east-java]: https://en.wikipedia.org/wiki/East_Java
