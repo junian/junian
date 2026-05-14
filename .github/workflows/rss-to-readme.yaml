@@ -16,7 +16,6 @@ jobs:
         id: blog-feed
         with:
           url: |
-            https://www.junian.dev/dev/index.xml
             https://www.junian.dev/tech/index.xml
           file: 'README.md'
           format: '- [${title}](${url}) <sub>${monthlong} ${02day}, ${year}</sub>'
@@ -29,7 +28,6 @@ jobs:
         id: blog-feed-all
         with:
           url: |
-            https://www.junian.dev/dev/index.xml
             https://www.junian.dev/tech/index.xml
           file: 'blog/README.md'
           format: '- `${monthshort} ${02day}, ${year}` [${title}](${url})'
