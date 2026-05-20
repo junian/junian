@@ -41,7 +41,7 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 - [Embed YouTube Playlist in Hugo with Shortcode](https://www.junian.dev/tech/hugo-youtube-playlist-shortcode/) <sub>April 28, 2026</sub>
 - [Generate Multiple Pretty URL Presentations with Marp and JavaScript](https://www.junian.dev/tech/marp-generate-multiple-presentations/) <sub>April 27, 2026</sub>
 - [Setting Up Netlify Site with Cloudflare Proxy](https://www.junian.dev/tech/netlify-with-cloudflare-proxy/) <sub>April 25, 2026</sub>
-- [Simple <kbd> Css](https://www.junian.dev/tech/simple-kbd-css/) <sub>April 24, 2026</sub>
+- [Simple CSS for "kbd" HTML Tag](https://www.junian.dev/tech/simple-kbd-css/) <sub>April 24, 2026</sub>
 - [Don't forget to Accept Xcode License for every update](https://www.junian.dev/tech/xcode-accept-license/) <sub>April 23, 2026</sub>
 - [How to Check if Content Is Draft or a Future Post in a Hugo Template](https://www.junian.dev/tech/hugo-check-content-draft-future/) <sub>April 22, 2026</sub>
 - [How to Activate IndexNow with Cloudflare](https://www.junian.dev/tech/cloudflare-indexnow/) <sub>April 21, 2026</sub>
