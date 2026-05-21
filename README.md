@@ -25,10 +25,10 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 - 🛠️ I enjoy writing code in [C-family languages][c], with **C#** and **TypeScript** as my favorites. Though with AI, almost any programming language is possible.
 - 🗣️ I can speak three languages: English, Indonesian, and [Javanese][javanese], plus a little bit of [Javanese script][javanese-script].
 - ✍️ I author a [tech and coding blog][blog] where I publish how-to guides and tutorials in simple language.
-  - **39K+** monthly views and growing.
+  - **37K+** monthly views and growing.
   - The blog is powered by ~~Blogger~~ Hugo.
 - 🎬 I also create videos on [YouTube][youtube] in the same niche as my blog.
-  - **29.5K+** monthly views and growing.
+  - **30.9K+** monthly views and growing.
 
 > [**Show me the code**](https://github.com/junian?tab=repositories&q=&type=&language=&sort=stargazers)
 
@@ -47,7 +47,7 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 - [How to Activate IndexNow with Cloudflare](https://www.junian.dev/tech/cloudflare-indexnow/) <sub>April 21, 2026</sub>
 <!-- blog feed end -->
 
-> [**See more**](https://junian.net/)
+> [**See more**][blog]
 
 ## 🎬 Recent YouTube Videos
 
@@ -64,7 +64,7 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 - [Build a Curriculum Outline Step 1 to 11 - freeCodeCamp Responsive Web Design Walkthrough V9](https://www.youtube.com/watch?v=Ertsaiqcfk4) <sub>February 25, 2026</sub>
 <!-- youtube feed end -->
 
-> [**See more**](https://junian.net/yt/)
+> [**See more**][youtube]
 
 [youtube]: https://www.youtube.com/@juniandev "Junian Dev Official YouTube Channel"
 [blog]: https://www.junian.dev "Junian Dev Official Website"
