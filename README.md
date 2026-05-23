@@ -35,6 +35,8 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [You Should Add Slash Pages to Your Personal Website or Blog](https://www.junian.dev/blog/slash-pages/) <sub>May 23, 2026</sub>
+- [How to Install Antigravity IDE Back, the VSCode Fork Version](https://www.junian.dev/tech/antigravity-ide/) <sub>May 22, 2026</sub>
 - [junian.net is now junian.dev](https://www.junian.dev/blog/dotnet-to-dotdev-domain-migration/) <sub>May 05, 2026</sub>
 - [Cloudflare Intermediate Certs](https://www.junian.dev/tech/cloudflare-intermediate-certs/) <sub>April 30, 2026</sub>
 - [Deploy Marp Markdown Presentations to GitHub Pages with GitHub Actions](https://www.junian.dev/tech/deploy-marp-to-github-pages/) <sub>April 29, 2026</sub>
@@ -43,8 +45,6 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 - [Setting Up Netlify Site with Cloudflare Proxy](https://www.junian.dev/tech/netlify-with-cloudflare-proxy/) <sub>April 25, 2026</sub>
 - [Simple CSS for "kbd" HTML Tag](https://www.junian.dev/tech/simple-kbd-css/) <sub>April 24, 2026</sub>
 - [Don't forget to Accept Xcode License for every update](https://www.junian.dev/tech/xcode-accept-license/) <sub>April 23, 2026</sub>
-- [How to Check if Content Is Draft or a Future Post in a Hugo Template](https://www.junian.dev/tech/hugo-check-content-draft-future/) <sub>April 22, 2026</sub>
-- [How to Activate IndexNow with Cloudflare](https://www.junian.dev/tech/cloudflare-indexnow/) <sub>April 21, 2026</sub>
 <!-- blog feed end -->
 
 > [**See more**][blog]
