@@ -35,6 +35,8 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [5 Free US Phone Numbers to Make a Test Call with Google Voice](https://www.junian.dev/tech/usa-phone-numbers-test-call/) <sub>June 03, 2026</sub>
+- [May 2026 Monthly Growth Report](https://www.junian.dev/blog/2026-05-monthly-report/) <sub>June 02, 2026</sub>
 - [Cemu 2.6 Security Check: Is Your Steam Deck Affected?](https://www.junian.dev/tech/cemu-security-check/) <sub>May 30, 2026</sub>
 - [April 2026 Monthly Growth Report](https://www.junian.dev/blog/2026-04-monthly-report/) <sub>May 25, 2026</sub>
 - [You Should Add Slash Pages to Your Personal Website or Blog](https://www.junian.dev/blog/slash-pages/) <sub>May 23, 2026</sub>
@@ -43,8 +45,6 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 - [Cloudflare Intermediate Certs](https://www.junian.dev/tech/cloudflare-intermediate-certs/) <sub>April 30, 2026</sub>
 - [Deploy Marp Markdown Presentations to GitHub Pages with GitHub Actions](https://www.junian.dev/tech/deploy-marp-to-github-pages/) <sub>April 29, 2026</sub>
 - [Embed YouTube Playlist in Hugo with Shortcode](https://www.junian.dev/tech/hugo-youtube-playlist-shortcode/) <sub>April 28, 2026</sub>
-- [Generate Multiple Pretty URL Presentations with Marp and JavaScript](https://www.junian.dev/tech/marp-generate-multiple-presentations/) <sub>April 27, 2026</sub>
-- [Setting Up Netlify Site with Cloudflare Proxy](https://www.junian.dev/tech/netlify-with-cloudflare-proxy/) <sub>April 25, 2026</sub>
 <!-- blog feed end -->
 
 > [**See more**][blog]
