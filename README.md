@@ -35,6 +35,7 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [ChatGPT AI Prompt to Proofread Your Blog Post](https://www.junian.dev/tech/ai-prompt-blog-post-proofread/) <sub>June 04, 2026</sub>
 - [5 Free US Phone Numbers to Make a Test Call with Google Voice](https://www.junian.dev/tech/usa-phone-numbers-test-call/) <sub>June 03, 2026</sub>
 - [May 2026 Monthly Growth Report](https://www.junian.dev/blog/2026-05-monthly-report/) <sub>June 02, 2026</sub>
 - [Cemu 2.6 Security Check: Is Your Steam Deck Affected?](https://www.junian.dev/tech/cemu-security-check/) <sub>May 30, 2026</sub>
@@ -44,7 +45,6 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 - [junian.net is now junian.dev](https://www.junian.dev/blog/dotnet-to-dotdev-domain-migration/) <sub>May 05, 2026</sub>
 - [Cloudflare Intermediate Certs](https://www.junian.dev/tech/cloudflare-intermediate-certs/) <sub>April 30, 2026</sub>
 - [Deploy Marp Markdown Presentations to GitHub Pages with GitHub Actions](https://www.junian.dev/tech/deploy-marp-to-github-pages/) <sub>April 29, 2026</sub>
-- [Embed YouTube Playlist in Hugo with Shortcode](https://www.junian.dev/tech/hugo-youtube-playlist-shortcode/) <sub>April 28, 2026</sub>
 <!-- blog feed end -->
 
 > [**See more**][blog]
