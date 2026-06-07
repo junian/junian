@@ -35,6 +35,8 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [Download Microsoft Visual C++ Redistributable Installers](https://www.junian.dev/downloads/vc-redist/) <sub>June 06, 2026</sub>
+- [Download and Install Visual Studio 2013 Community Edition](https://www.junian.dev/tech/install-visual-studio-2013/) <sub>June 05, 2026</sub>
 - [ChatGPT AI Prompt to Proofread Your Blog Post](https://www.junian.dev/tech/ai-prompt-blog-post-proofread/) <sub>June 04, 2026</sub>
 - [5 Free US Phone Numbers to Make a Test Call with Google Voice](https://www.junian.dev/tech/usa-phone-numbers-test-call/) <sub>June 03, 2026</sub>
 - [May 2026 Monthly Growth Report](https://www.junian.dev/blog/2026-05-monthly-report/) <sub>June 02, 2026</sub>
@@ -42,9 +44,7 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 - [April 2026 Monthly Growth Report](https://www.junian.dev/blog/2026-04-monthly-report/) <sub>May 25, 2026</sub>
 - [You Should Add Slash Pages to Your Personal Website or Blog](https://www.junian.dev/blog/slash-pages/) <sub>May 23, 2026</sub>
 - [How to Install Antigravity IDE Back, the VSCode Fork Version](https://www.junian.dev/tech/antigravity-ide/) <sub>May 22, 2026</sub>
-- [junian.net is now junian.dev](https://www.junian.dev/blog/dotnet-to-dotdev-domain-migration/) <sub>May 05, 2026</sub>
-- [Cloudflare Intermediate Certs](https://www.junian.dev/tech/cloudflare-intermediate-certs/) <sub>April 30, 2026</sub>
-- [Deploy Marp Markdown Presentations to GitHub Pages with GitHub Actions](https://www.junian.dev/tech/deploy-marp-to-github-pages/) <sub>April 29, 2026</sub>
+- [assetmaker](https://www.junian.dev/assetmaker/) <sub>May 13, 2026</sub>
 <!-- blog feed end -->
 
 > [**See more**][blog]
