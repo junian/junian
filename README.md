@@ -35,6 +35,7 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [How to fix Docker exec: Entrypoint: Permission Denied: Unknown](https://www.junian.dev/tech/docker-exec-entrypoint-sh-permission-denied/) <sub>June 09, 2026</sub>
 - [Windows App (MS Remote Desktop) for macOS Download Links](https://www.junian.dev/downloads/windows-app-for-mac/) <sub>June 08, 2026</sub>
 - [Xcode for Mac Downloads Grouped by macOS Version](https://www.junian.dev/downloads/xcode/) <sub>June 08, 2026</sub>
 - [Download Microsoft Visual C++ Redistributable Installers](https://www.junian.dev/downloads/vc-redist/) <sub>June 06, 2026</sub>
@@ -44,7 +45,6 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 - [May 2026 Monthly Growth Report](https://www.junian.dev/blog/2026-05-monthly-report/) <sub>June 02, 2026</sub>
 - [Cemu 2.6 Security Check: Is Your Steam Deck Affected?](https://www.junian.dev/tech/cemu-security-check/) <sub>May 30, 2026</sub>
 - [April 2026 Monthly Growth Report](https://www.junian.dev/blog/2026-04-monthly-report/) <sub>May 25, 2026</sub>
-- [You Should Add Slash Pages to Your Personal Website or Blog](https://www.junian.dev/blog/slash-pages/) <sub>May 23, 2026</sub>
 <!-- blog feed end -->
 
 > [**See more**][blog]

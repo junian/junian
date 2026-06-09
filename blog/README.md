@@ -1,6 +1,7 @@
 ## Tech Blog
 
 <!-- feed start -->
+- `Jun 09, 2026` [How to fix Docker exec: Entrypoint: Permission Denied: Unknown](https://www.junian.dev/tech/docker-exec-entrypoint-sh-permission-denied/)
 - `Jun 08, 2026` [Windows App (MS Remote Desktop) for macOS Download Links](https://www.junian.dev/downloads/windows-app-for-mac/)
 - `Jun 08, 2026` [Xcode for Mac Downloads Grouped by macOS Version](https://www.junian.dev/downloads/xcode/)
 - `Jun 06, 2026` [Download Microsoft Visual C++ Redistributable Installers](https://www.junian.dev/downloads/vc-redist/)
