@@ -25,7 +25,7 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 - 🛠️ I enjoy writing code in [C-family languages][c], with **C#** and **TypeScript** as my favorites. Though with AI, almost any programming language is possible.
 - 🗣️ I can speak three languages: English, Indonesian, and [Javanese][javanese], plus a little bit of [Javanese script][javanese-script].
 - ✍️ I author a [tech and coding blog][blog] where I publish how-to guides and tutorials in simple language.
-  - **44K+** monthly views and growing.
+  - **47K+** monthly views and growing.
   - The blog is powered by ~~Blogger~~ Hugo.
 - 🎬 I also create videos on [YouTube][youtube] in the same niche as my blog.
   - **29.9K+** monthly views and growing.
