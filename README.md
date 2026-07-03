@@ -35,6 +35,7 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [June 2026 Monthly Growth Report](https://www.junian.dev/blog/2026-06-monthly-report/) <sub>July 03, 2026</sub>
 - [Winget Source Error: 'msstore server certificate did not match'](https://www.junian.dev/tech/winget-source-error/) <sub>June 16, 2026</sub>
 - [Build Hugo Static Site using Hugo via Node Package Manager (NPM)](https://www.junian.dev/tech/hugo-npm/) <sub>June 15, 2026</sub>
 - [SQL Server Management Studio (SSMS) - All Versions Download](https://www.junian.dev/downloads/ssms/) <sub>June 13, 2026</sub>
@@ -44,7 +45,6 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 - [Microsoft Access Runtime Download Links](https://www.junian.dev/downloads/access-runtime/) <sub>June 11, 2026</sub>
 - [Download and Install Visual Studio 2015 Community Edition](https://www.junian.dev/tech/install-visual-studio-2015/) <sub>June 10, 2026</sub>
 - [How to fix Docker exec: Entrypoint: Permission Denied: Unknown](https://www.junian.dev/tech/docker-exec-entrypoint-sh-permission-denied/) <sub>June 09, 2026</sub>
-- [Download Windows App for Mac (New MS Remote Desktop)](https://www.junian.dev/downloads/windows-app-for-mac/) <sub>June 08, 2026</sub>
 <!-- blog feed end -->
 
 > [**See more**][blog]
