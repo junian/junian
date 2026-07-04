@@ -28,7 +28,7 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
   - **47K+** monthly views and growing.
   - The blog is powered by ~~Blogger~~ Hugo.
 - 🎬 I also create videos on [YouTube][youtube] in the same niche as my blog.
-  - **29.9K+** monthly views and growing.
+  - **24.2K+** monthly views and growing.
 
 > [**Show me the code**](https://github.com/junian?tab=repositories&q=&type=&language=&sort=stargazers)
 
