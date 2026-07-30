@@ -1,6 +1,7 @@
 ## Tech Blog
 
 <!-- feed start -->
+- `Jul 30, 2026` [UpSparkle - Native Updater for .NET Desktop Apps](https://www.junian.dev/upsparkle/)
 - `Jul 28, 2026` [libMacSparkle](https://www.junian.dev/libmacsparkle/)
 - `Jul 03, 2026` [June 2026 Monthly Growth Report](https://www.junian.dev/blog/2026-06-monthly-report/)
 - `Jun 16, 2026` [Winget Source Error: 'msstore server certificate did not match'](https://www.junian.dev/tech/winget-source-error/)
@@ -46,7 +47,6 @@
 - `May 13, 2026` [SharpExifTool](https://www.junian.dev/SharpExifTool/)
 - `May 13, 2026` [Standard.Licensing](https://www.junian.dev/Standard.Licensing/)
 - `May 13, 2026` [Termission](https://www.junian.dev/termission/)
-- `May 13, 2026` [upsparkle](https://www.junian.dev/upsparkle/)
 - `May 13, 2026` [Web Apps in Vanilla HTML, CSS, and JavaScript](https://www.junian.dev/web-apps/)
 - `May 13, 2026` [Wixgen](https://www.junian.dev/wixgen/)
 - `May 13, 2026` [C# for Loop with Examples](https://www.junian.dev/code/csharp/for/)

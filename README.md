@@ -35,6 +35,7 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [UpSparkle - Native Updater for .NET Desktop Apps](https://www.junian.dev/upsparkle/) <sub>July 30, 2026</sub>
 - [libMacSparkle](https://www.junian.dev/libmacsparkle/) <sub>July 28, 2026</sub>
 - [June 2026 Monthly Growth Report](https://www.junian.dev/blog/2026-06-monthly-report/) <sub>July 03, 2026</sub>
 - [Winget Source Error: 'msstore server certificate did not match'](https://www.junian.dev/tech/winget-source-error/) <sub>June 16, 2026</sub>
@@ -44,7 +45,6 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 - [Microsoft SQL Server Developer All Versions Download - 2025, 2022, 2019, 2017](https://www.junian.dev/downloads/sql-server-developer/) <sub>June 12, 2026</sub>
 - [Microsoft Access Database Engine Redistributable Downloads](https://www.junian.dev/downloads/access-database-engine/) <sub>June 11, 2026</sub>
 - [Microsoft Access Runtime Download Links](https://www.junian.dev/downloads/access-runtime/) <sub>June 11, 2026</sub>
-- [Download and Install Visual Studio 2015 Community Edition](https://www.junian.dev/tech/install-visual-studio-2015/) <sub>June 10, 2026</sub>
 <!-- blog feed end -->
 
 > [**See more**][blog]
