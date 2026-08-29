@@ -35,6 +35,7 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [July 2026 Monthly Growth Report](https://www.junian.dev/blog/2026-07-monthly-report/) <sub>August 28, 2026</sub>
 - [How to Delete All OpenCode Sessions](https://www.junian.dev/blog/opencode-delete-all-sessions/) <sub>August 26, 2026</sub>
 - [UpSparkle - Native Updater for .NET Desktop Apps](https://www.junian.dev/upsparkle/) <sub>July 30, 2026</sub>
 - [libMacSparkle: unofficial dynamic library of Sparkle updater](https://www.junian.dev/libmacsparkle/) <sub>July 28, 2026</sub>
@@ -44,7 +45,6 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 - [SQL Server Management Studio (SSMS) - All Versions Download](https://www.junian.dev/downloads/ssms/) <sub>June 13, 2026</sub>
 - [Microsoft SQL Server Express All Versions Download - 2025, 2022, 2019, 2017](https://www.junian.dev/downloads/sql-server-express/) <sub>June 13, 2026</sub>
 - [Microsoft SQL Server Developer All Versions Download - 2025, 2022, 2019, 2017](https://www.junian.dev/downloads/sql-server-developer/) <sub>June 12, 2026</sub>
-- [Microsoft Access Database Engine Redistributable Downloads](https://www.junian.dev/downloads/access-database-engine/) <sub>June 11, 2026</sub>
 <!-- blog feed end -->
 
 > [**See more**][blog]
