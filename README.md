@@ -35,6 +35,7 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [Microsoft Teams for Mac Older Download Links](https://www.junian.dev/downloads/teams-for-mac/) <sub>September 02, 2026</sub>
 - [Microsoft OneDrive for Mac Older Download Links](https://www.junian.dev/downloads/onedrive-for-mac/) <sub>September 01, 2026</sub>
 - [July 2026 Monthly Growth Report](https://www.junian.dev/blog/2026-07-monthly-report/) <sub>August 28, 2026</sub>
 - [How to Delete All OpenCode Sessions](https://www.junian.dev/blog/opencode-delete-all-sessions/) <sub>August 26, 2026</sub>
@@ -44,7 +45,6 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 - [Winget Source Error: 'msstore server certificate did not match'](https://www.junian.dev/blog/winget-source-error/) <sub>June 16, 2026</sub>
 - [Use Hugo via Node Package Manager (NPM) to Build Static Site](https://www.junian.dev/blog/hugo-npm/) <sub>June 15, 2026</sub>
 - [SQL Server Management Studio (SSMS) - All Versions Download](https://www.junian.dev/downloads/ssms/) <sub>June 13, 2026</sub>
-- [Microsoft SQL Server Express All Versions Download - 2025, 2022, 2019, 2017](https://www.junian.dev/downloads/sql-server-express/) <sub>June 13, 2026</sub>
 <!-- blog feed end -->
 
 > [**See more**][blog]
