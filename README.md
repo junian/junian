@@ -35,6 +35,7 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [All OneDrive Versions for Mac](https://www.junian.dev/downloads/all-onedrive-versions-mac/) <sub>September 03, 2026</sub>
 - [Microsoft Teams for Mac Older Download Links](https://www.junian.dev/downloads/teams-for-mac/) <sub>September 02, 2026</sub>
 - [Microsoft OneDrive for Mac Older Download Links](https://www.junian.dev/downloads/onedrive-for-mac/) <sub>September 01, 2026</sub>
 - [July 2026 Monthly Growth Report](https://www.junian.dev/blog/2026-07-monthly-report/) <sub>August 28, 2026</sub>
@@ -44,7 +45,6 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 - [June 2026 Monthly Growth Report](https://www.junian.dev/blog/2026-06-monthly-report/) <sub>July 03, 2026</sub>
 - [Winget Source Error: 'msstore server certificate did not match'](https://www.junian.dev/blog/winget-source-error/) <sub>June 16, 2026</sub>
 - [Use Hugo via Node Package Manager (NPM) to Build Static Site](https://www.junian.dev/blog/hugo-npm/) <sub>June 15, 2026</sub>
-- [SQL Server Management Studio (SSMS) - All Versions Download](https://www.junian.dev/downloads/ssms/) <sub>June 13, 2026</sub>
 <!-- blog feed end -->
 
 > [**See more**][blog]
