@@ -35,6 +35,7 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [Better Way to Install Emscripten on Mac](https://www.junian.dev/blog/install-emscripten-mac/) <sub>September 05, 2026</sub>
 - [Fixing Firefox Full Screen Video on Steam Deck's Gaming Mode](https://www.junian.dev/blog/steam-deck-firefox-full-screen-video-gaming-mode/) <sub>September 04, 2026</sub>
 - [All OneDrive Versions for Mac](https://www.junian.dev/downloads/all-onedrive-versions-mac/) <sub>September 03, 2026</sub>
 - [Microsoft Teams for Mac Older Download Links](https://www.junian.dev/downloads/teams-for-mac/) <sub>September 02, 2026</sub>
@@ -44,7 +45,6 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 - [UpSparkle - Native Updater for .NET Desktop Apps](https://www.junian.dev/upsparkle/) <sub>July 30, 2026</sub>
 - [libMacSparkle: unofficial dynamic library of Sparkle updater](https://www.junian.dev/libmacsparkle/) <sub>July 28, 2026</sub>
 - [June 2026 Monthly Growth Report](https://www.junian.dev/blog/2026-06-monthly-report/) <sub>July 03, 2026</sub>
-- [Winget Source Error: 'msstore server certificate did not match'](https://www.junian.dev/blog/winget-source-error/) <sub>June 16, 2026</sub>
 <!-- blog feed end -->
 
 > [**See more**][blog]
