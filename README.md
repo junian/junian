@@ -35,6 +35,7 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [All Windows App / MS Remote Desktop Client Versions for Mac](https://www.junian.dev/downloads/all-windows-app-remote-desktop-versions-mac/) <sub>September 06, 2026</sub>
 - [Better Way to Install Emscripten on Mac](https://www.junian.dev/blog/install-emscripten-mac/) <sub>September 05, 2026</sub>
 - [Fixing Firefox Full Screen Video on Steam Deck's Gaming Mode](https://www.junian.dev/blog/steam-deck-firefox-full-screen-video-gaming-mode/) <sub>September 04, 2026</sub>
 - [All OneDrive Versions for Mac](https://www.junian.dev/downloads/all-onedrive-versions-mac/) <sub>September 03, 2026</sub>
@@ -44,7 +45,6 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 - [How to Delete All OpenCode Sessions](https://www.junian.dev/blog/opencode-delete-all-sessions/) <sub>August 26, 2026</sub>
 - [UpSparkle - Native Updater for .NET Desktop Apps](https://www.junian.dev/upsparkle/) <sub>July 30, 2026</sub>
 - [libMacSparkle: unofficial dynamic library of Sparkle updater](https://www.junian.dev/libmacsparkle/) <sub>July 28, 2026</sub>
-- [June 2026 Monthly Growth Report](https://www.junian.dev/blog/2026-06-monthly-report/) <sub>July 03, 2026</sub>
 <!-- blog feed end -->
 
 > [**See more**][blog]
