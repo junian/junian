@@ -35,6 +35,8 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [Disable Parallels Desktop .lnk Pop-Up Dialog](https://www.junian.dev/blog/disable-parallels-desktop-lnk-pop-up/) <sub>September 08, 2026</sub>
+- [Disable Parallels Desktop Update or Promo Pop-Up Window](https://www.junian.dev/blog/disable-parallels-desktop-update-pop-up/) <sub>September 07, 2026</sub>
 - [All Windows App / MS Remote Desktop Client Versions for Mac](https://www.junian.dev/downloads/all-windows-app-remote-desktop-versions-mac/) <sub>September 06, 2026</sub>
 - [Better Way to Install Emscripten on Mac](https://www.junian.dev/blog/install-emscripten-mac/) <sub>September 05, 2026</sub>
 - [Fixing Firefox Full Screen Video on Steam Deck's Gaming Mode](https://www.junian.dev/blog/steam-deck-firefox-full-screen-video-gaming-mode/) <sub>September 04, 2026</sub>
@@ -43,8 +45,6 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 - [Microsoft OneDrive for Mac Older Download Links](https://www.junian.dev/downloads/onedrive-for-mac/) <sub>September 01, 2026</sub>
 - [July 2026 Monthly Growth Report](https://www.junian.dev/blog/2026-07-monthly-report/) <sub>August 28, 2026</sub>
 - [How to Delete All OpenCode Sessions](https://www.junian.dev/blog/opencode-delete-all-sessions/) <sub>August 26, 2026</sub>
-- [UpSparkle - Native Updater for .NET Desktop Apps](https://www.junian.dev/upsparkle/) <sub>July 30, 2026</sub>
-- [libMacSparkle: unofficial dynamic library of Sparkle updater](https://www.junian.dev/libmacsparkle/) <sub>July 28, 2026</sub>
 <!-- blog feed end -->
 
 > [**See more**][blog]
