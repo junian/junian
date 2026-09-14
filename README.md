@@ -35,6 +35,8 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [I bought a new $300-ish Laptop in 2026 RAMmageddon - SPC Style 5 Vibe Reviews](https://www.junian.dev/blog/2026-rammageddon-new-basic-laptop/) <sub>September 12, 2026</sub>
+- [ZTE GPON ONU Router Administrator Password](https://www.junian.dev/blog/zte-gpon-onu-admin-password/) <sub>September 11, 2026</sub>
 - [Stopping OpenAI ChatGPT from using your data for AI training](https://www.junian.dev/blog/openai-chatgpt-disable-data-train/) <sub>September 10, 2026</sub>
 - [How to Uninstall a Flatpak App and Its Data (Full Uninstall)](https://www.junian.dev/blog/flatpak-full-uninstall-app-and-data/) <sub>September 09, 2026</sub>
 - [Disable Parallels Desktop .lnk Pop-Up Dialog](https://www.junian.dev/blog/disable-parallels-desktop-lnk-pop-up/) <sub>September 08, 2026</sub>
@@ -43,8 +45,6 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 - [Better Way to Install Emscripten on Mac](https://www.junian.dev/blog/install-emscripten-mac/) <sub>September 05, 2026</sub>
 - [Fixing Firefox Full Screen Video on Steam Deck's Gaming Mode](https://www.junian.dev/blog/steam-deck-firefox-full-screen-video-gaming-mode/) <sub>September 04, 2026</sub>
 - [All OneDrive Versions for Mac](https://www.junian.dev/downloads/all-onedrive-versions-mac/) <sub>September 03, 2026</sub>
-- [Microsoft Teams for Mac Older Download Links](https://www.junian.dev/downloads/teams-for-mac/) <sub>September 02, 2026</sub>
-- [Microsoft OneDrive for Mac Older Download Links](https://www.junian.dev/downloads/onedrive-for-mac/) <sub>September 01, 2026</sub>
 <!-- blog feed end -->
 
 > [**See more**][blog]
