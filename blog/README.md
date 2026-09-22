@@ -1,6 +1,7 @@
 ## Tech Blog
 
 <!-- feed start -->
+- `Sep 20, 2026` [Using Touch ID for sudo on Mac](https://www.junian.dev/blog/mac-sudo-touch-id/)
 - `Sep 19, 2026` [Download Google Chrome for Older Legacy Mac](https://www.junian.dev/downloads/google-chrome-for-mac/)
 - `Sep 18, 2026` [August 2026 Monthly Growth Report](https://www.junian.dev/blog/2026-08-monthly-report/)
 - `Sep 12, 2026` [I bought a new $300-ish Laptop in 2026 RAMmageddon - SPC Style 5 Vibe Reviews](https://www.junian.dev/blog/2026-rammageddon-new-basic-laptop/)

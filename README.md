@@ -35,6 +35,7 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [Using Touch ID for sudo on Mac](https://www.junian.dev/blog/mac-sudo-touch-id/) <sub>September 20, 2026</sub>
 - [Download Google Chrome for Older Legacy Mac](https://www.junian.dev/downloads/google-chrome-for-mac/) <sub>September 19, 2026</sub>
 - [August 2026 Monthly Growth Report](https://www.junian.dev/blog/2026-08-monthly-report/) <sub>September 18, 2026</sub>
 - [I bought a new $300-ish Laptop in 2026 RAMmageddon - SPC Style 5 Vibe Reviews](https://www.junian.dev/blog/2026-rammageddon-new-basic-laptop/) <sub>September 12, 2026</sub>
@@ -44,7 +45,6 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 - [Disable Parallels Desktop .lnk Pop-Up Dialog](https://www.junian.dev/blog/disable-parallels-desktop-lnk-pop-up/) <sub>September 08, 2026</sub>
 - [Disable Parallels Desktop Update or Promo Pop-Up Window](https://www.junian.dev/blog/disable-parallels-desktop-update-pop-up/) <sub>September 07, 2026</sub>
 - [All Windows App / MS Remote Desktop Client Versions for Mac](https://www.junian.dev/downloads/all-windows-app-remote-desktop-versions-mac/) <sub>September 06, 2026</sub>
-- [Better Way to Install Emscripten on Mac](https://www.junian.dev/blog/install-emscripten-mac/) <sub>September 05, 2026</sub>
 <!-- blog feed end -->
 
 > [**See more**][blog]
