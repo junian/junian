@@ -35,6 +35,8 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [Fixing Git Checkout Invalid Path Error on Windows](https://www.junian.dev/blog/git-error-invalid-path/) <sub>September 22, 2026</sub>
+- [Fixing ADB Failed to Connect Android Device Wirelessly](https://www.junian.dev/blog/adb-failed-to-connect/) <sub>September 21, 2026</sub>
 - [Using Touch ID for sudo on Mac](https://www.junian.dev/blog/mac-sudo-touch-id/) <sub>September 20, 2026</sub>
 - [Download Google Chrome for Older Legacy Mac](https://www.junian.dev/downloads/google-chrome-for-mac/) <sub>September 19, 2026</sub>
 - [August 2026 Monthly Growth Report](https://www.junian.dev/blog/2026-08-monthly-report/) <sub>September 18, 2026</sub>
@@ -43,8 +45,6 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 - [Stopping OpenAI ChatGPT from using your data for AI training](https://www.junian.dev/blog/openai-chatgpt-disable-data-train/) <sub>September 10, 2026</sub>
 - [How to Uninstall a Flatpak App and Its Data (Full Uninstall)](https://www.junian.dev/blog/flatpak-full-uninstall-app-and-data/) <sub>September 09, 2026</sub>
 - [Disable Parallels Desktop .lnk Pop-Up Dialog](https://www.junian.dev/blog/disable-parallels-desktop-lnk-pop-up/) <sub>September 08, 2026</sub>
-- [Disable Parallels Desktop Update or Promo Pop-Up Window](https://www.junian.dev/blog/disable-parallels-desktop-update-pop-up/) <sub>September 07, 2026</sub>
-- [All Windows App / MS Remote Desktop Client Versions for Mac](https://www.junian.dev/downloads/all-windows-app-remote-desktop-versions-mac/) <sub>September 06, 2026</sub>
 <!-- blog feed end -->
 
 > [**See more**][blog]
