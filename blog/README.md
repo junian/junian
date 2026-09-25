@@ -1,6 +1,8 @@
 ## Tech Blog
 
 <!-- feed start -->
+- `Sep 25, 2026` [Removing Hidden User 'nx' from macOS](https://www.junian.dev/blog/macos-hidden-users/)
+- `Sep 24, 2026` [All Microsoft Teams Versions for Mac](https://www.junian.dev/downloads/all-microsoft-teams-versions-mac/)
 - `Sep 22, 2026` [Fixing Git Checkout Invalid Path Error on Windows](https://www.junian.dev/blog/git-error-invalid-path/)
 - `Sep 21, 2026` [Fixing ADB Failed to Connect Android Device Wirelessly](https://www.junian.dev/blog/adb-failed-to-connect/)
 - `Sep 20, 2026` [Using Touch ID for sudo on Mac](https://www.junian.dev/blog/mac-sudo-touch-id/)

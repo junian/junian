@@ -35,6 +35,8 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [Removing Hidden User 'nx' from macOS](https://www.junian.dev/blog/macos-hidden-users/) <sub>September 25, 2026</sub>
+- [All Microsoft Teams Versions for Mac](https://www.junian.dev/downloads/all-microsoft-teams-versions-mac/) <sub>September 24, 2026</sub>
 - [Fixing Git Checkout Invalid Path Error on Windows](https://www.junian.dev/blog/git-error-invalid-path/) <sub>September 22, 2026</sub>
 - [Fixing ADB Failed to Connect Android Device Wirelessly](https://www.junian.dev/blog/adb-failed-to-connect/) <sub>September 21, 2026</sub>
 - [Using Touch ID for sudo on Mac](https://www.junian.dev/blog/mac-sudo-touch-id/) <sub>September 20, 2026</sub>
@@ -43,8 +45,6 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 - [I bought a new $300-ish Laptop in 2026 RAMmageddon - SPC Style 5 Vibe Reviews](https://www.junian.dev/blog/2026-rammageddon-new-basic-laptop/) <sub>September 12, 2026</sub>
 - [ZTE GPON ONU Router Administrator Password](https://www.junian.dev/blog/zte-gpon-onu-admin-password/) <sub>September 11, 2026</sub>
 - [Stopping OpenAI ChatGPT from using your data for AI training](https://www.junian.dev/blog/openai-chatgpt-disable-data-train/) <sub>September 10, 2026</sub>
-- [How to Uninstall a Flatpak App and Its Data (Full Uninstall)](https://www.junian.dev/blog/flatpak-full-uninstall-app-and-data/) <sub>September 09, 2026</sub>
-- [Disable Parallels Desktop .lnk Pop-Up Dialog](https://www.junian.dev/blog/disable-parallels-desktop-lnk-pop-up/) <sub>September 08, 2026</sub>
 <!-- blog feed end -->
 
 > [**See more**][blog]
