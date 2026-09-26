@@ -1,6 +1,7 @@
 ## Tech Blog
 
 <!-- feed start -->
+- `Sep 26, 2026` [Installing Latest Go Programming Language on Linux](https://www.junian.dev/blog/latest-go-installation/)
 - `Sep 25, 2026` [Removing Hidden User 'nx' from macOS](https://www.junian.dev/blog/macos-hidden-users/)
 - `Sep 24, 2026` [All Microsoft Teams Versions for Mac](https://www.junian.dev/downloads/all-microsoft-teams-versions-mac/)
 - `Sep 22, 2026` [Fixing Git Checkout Invalid Path Error on Windows](https://www.junian.dev/blog/git-error-invalid-path/)

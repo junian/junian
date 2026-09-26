@@ -35,6 +35,7 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [Installing Latest Go Programming Language on Linux](https://www.junian.dev/blog/latest-go-installation/) <sub>September 26, 2026</sub>
 - [Removing Hidden User 'nx' from macOS](https://www.junian.dev/blog/macos-hidden-users/) <sub>September 25, 2026</sub>
 - [All Microsoft Teams Versions for Mac](https://www.junian.dev/downloads/all-microsoft-teams-versions-mac/) <sub>September 24, 2026</sub>
 - [Fixing Git Checkout Invalid Path Error on Windows](https://www.junian.dev/blog/git-error-invalid-path/) <sub>September 22, 2026</sub>
@@ -44,7 +45,6 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 - [August 2026 Monthly Growth Report](https://www.junian.dev/blog/2026-08-monthly-report/) <sub>September 18, 2026</sub>
 - [I bought a new $300-ish Laptop in 2026 RAMmageddon - SPC Style 5 Vibe Reviews](https://www.junian.dev/blog/2026-rammageddon-new-basic-laptop/) <sub>September 12, 2026</sub>
 - [ZTE GPON ONU Router Administrator Password](https://www.junian.dev/blog/zte-gpon-onu-admin-password/) <sub>September 11, 2026</sub>
-- [Stopping OpenAI ChatGPT from using your data for AI training](https://www.junian.dev/blog/openai-chatgpt-disable-data-train/) <sub>September 10, 2026</sub>
 <!-- blog feed end -->
 
 > [**See more**][blog]
