@@ -35,6 +35,7 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [Windows HEVC Video Extensions FREE Download](https://www.junian.dev/blog/windows-hevc-video-extensions/) <sub>September 29, 2026</sub>
 - [Visual Studio Code for Mac Older Download Links](https://www.junian.dev/downloads/vscode-for-mac/) <sub>September 28, 2026</sub>
 - [All Visual Studio Code Versions for Mac](https://www.junian.dev/downloads/all-visual-studio-code-versions-mac/) <sub>September 27, 2026</sub>
 - [Installing Latest Go Programming Language on Linux](https://www.junian.dev/blog/latest-go-installation/) <sub>September 26, 2026</sub>
@@ -44,7 +45,6 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 - [Fixing ADB Failed to Connect Android Device Wirelessly](https://www.junian.dev/blog/adb-failed-to-connect/) <sub>September 21, 2026</sub>
 - [Using Touch ID for sudo on Mac](https://www.junian.dev/blog/mac-sudo-touch-id/) <sub>September 20, 2026</sub>
 - [Download Google Chrome for Older Legacy Mac](https://www.junian.dev/downloads/google-chrome-for-mac/) <sub>September 19, 2026</sub>
-- [August 2026 Monthly Growth Report](https://www.junian.dev/blog/2026-08-monthly-report/) <sub>September 18, 2026</sub>
 <!-- blog feed end -->
 
 > [**See more**][blog]
