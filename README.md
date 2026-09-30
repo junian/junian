@@ -35,6 +35,7 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [Changing Default Cloudflare Node.js Version](https://www.junian.dev/blog/change-cloudflare-node-version/) <sub>September 30, 2026</sub>
 - [Windows HEVC Video Extensions FREE Download](https://www.junian.dev/blog/windows-hevc-video-extensions/) <sub>September 29, 2026</sub>
 - [Visual Studio Code for Mac Older Download Links](https://www.junian.dev/downloads/vscode-for-mac/) <sub>September 28, 2026</sub>
 - [All Visual Studio Code Versions for Mac](https://www.junian.dev/downloads/all-visual-studio-code-versions-mac/) <sub>September 27, 2026</sub>
@@ -44,7 +45,6 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 - [Fixing Git Checkout Invalid Path Error on Windows](https://www.junian.dev/blog/git-error-invalid-path/) <sub>September 22, 2026</sub>
 - [Fixing ADB Failed to Connect Android Device Wirelessly](https://www.junian.dev/blog/adb-failed-to-connect/) <sub>September 21, 2026</sub>
 - [Using Touch ID for sudo on Mac](https://www.junian.dev/blog/mac-sudo-touch-id/) <sub>September 20, 2026</sub>
-- [Download Google Chrome for Older Legacy Mac](https://www.junian.dev/downloads/google-chrome-for-mac/) <sub>September 19, 2026</sub>
 <!-- blog feed end -->
 
 > [**See more**][blog]
@@ -52,6 +52,7 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 ## 🎬 Recent YouTube Videos
 
 <!-- youtube feed start -->
+- [Using macOS Touch ID for sudo! No more password typing!](https://www.youtube.com/watch?v=Q9KJcovMX_4) <sub>September 30, 2026</sub>
 - [How to Download and Install Visual Studio 2013 Community in 2026 - Old Visual Studio Versions](https://www.youtube.com/watch?v=7JPRpcBX0yA) <sub>April 22, 2026</sub>
 - [Setting MacBook 80% Battery Charge Limit without 3rd party app - macOS Tahoe 26.4 New Feature!](https://www.youtube.com/watch?v=Tl66jvgKMGw) <sub>March 25, 2026</sub>
 - [Start macOS Recovery Internet Access without Wi-Fi (USB-C to Ethernet, Android Ethernet Tethering)](https://www.youtube.com/watch?v=IBQ2k9i434A) <sub>March 17, 2026</sub>
@@ -61,7 +62,6 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 - [Debug Camperbot's Profile Page - freeCodeCamp Responsive Web Design HTML Course](https://www.youtube.com/watch?v=qW-TlQ30mpo) <sub>March 01, 2026</sub>
 - [Build a Bookstore Page Step 1 to 19 - freeCodeCamp Responsive Web Design v9 Guide](https://www.youtube.com/watch?v=KW3QKPVxAqA) <sub>February 27, 2026</sub>
 - [Build a Cat Photo App Step 1 to 42 - freeCodeCamp Responsive Web Design Certification v9 Guide](https://www.youtube.com/watch?v=zwoYGmsDpW8) <sub>February 26, 2026</sub>
-- [Build a Curriculum Outline Step 1 to 11 - freeCodeCamp Responsive Web Design Walkthrough V9](https://www.youtube.com/watch?v=Ertsaiqcfk4) <sub>February 25, 2026</sub>
 <!-- youtube feed end -->
 
 > [**See more**][youtube]
