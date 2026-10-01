@@ -1,6 +1,7 @@
 ## Tech Blog
 
 <!-- feed start -->
+- `Oct 01, 2026` [All Firefox Versions for Mac](https://www.junian.dev/downloads/all-firefox-versions-mac/)
 - `Sep 30, 2026` [Changing Default Cloudflare Node.js Version](https://www.junian.dev/blog/change-cloudflare-node-version/)
 - `Sep 29, 2026` [Windows HEVC Video Extensions FREE Download](https://www.junian.dev/blog/windows-hevc-video-extensions/)
 - `Sep 28, 2026` [Visual Studio Code for Mac Older Download Links](https://www.junian.dev/downloads/vscode-for-mac/)
