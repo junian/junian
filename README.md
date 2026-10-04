@@ -52,6 +52,7 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 ## 🎬 Recent YouTube Videos
 
 <!-- youtube feed start -->
+- [How to use Touch ID to authenticate sudo on Mac #macos #terminal #touchid](https://www.youtube.com/shorts/JiA-W27yCBE) <sub>October 04, 2026</sub>
 - [Using macOS Touch ID for sudo! No more typing password!](https://www.youtube.com/watch?v=Q9KJcovMX_4) <sub>September 30, 2026</sub>
 - [How to Download and Install Visual Studio 2013 Community in 2026 - Old Visual Studio Versions](https://www.youtube.com/watch?v=7JPRpcBX0yA) <sub>April 22, 2026</sub>
 - [Setting MacBook 80% Battery Charge Limit without 3rd party app - macOS Tahoe 26.4 New Feature!](https://www.youtube.com/watch?v=Tl66jvgKMGw) <sub>March 25, 2026</sub>
@@ -61,7 +62,6 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 - [Debug a Pet Adoption Page - freeCodeCamp Responsive Web Design HTML Guide](https://www.youtube.com/watch?v=BJ0lF9dqtsA) <sub>March 02, 2026</sub>
 - [Debug Camperbot's Profile Page - freeCodeCamp Responsive Web Design HTML Course](https://www.youtube.com/watch?v=qW-TlQ30mpo) <sub>March 01, 2026</sub>
 - [Build a Bookstore Page Step 1 to 19 - freeCodeCamp Responsive Web Design v9 Guide](https://www.youtube.com/watch?v=KW3QKPVxAqA) <sub>February 27, 2026</sub>
-- [Build a Cat Photo App Step 1 to 42 - freeCodeCamp Responsive Web Design Certification v9 Guide](https://www.youtube.com/watch?v=zwoYGmsDpW8) <sub>February 26, 2026</sub>
 <!-- youtube feed end -->
 
 > [**See more**][youtube]
