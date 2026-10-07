@@ -35,6 +35,7 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [How to Relaunch Finder App on Mac](https://www.junian.dev/blog/mac-finder-relaunch/) <sub>October 03, 2026</sub>
 - [Formatting SSD or HDD on Windows 11](https://www.junian.dev/blog/windows-format-ssd-hdd/) <sub>October 02, 2026</sub>
 - [All Firefox Versions for Mac](https://www.junian.dev/downloads/all-firefox-versions-mac/) <sub>October 01, 2026</sub>
 - [Changing Default Cloudflare Node.js Version](https://www.junian.dev/blog/change-cloudflare-node-version/) <sub>September 30, 2026</sub>
@@ -44,7 +45,6 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 - [Installing Latest Go Programming Language on Linux](https://www.junian.dev/blog/latest-go-installation/) <sub>September 26, 2026</sub>
 - [Removing Hidden User 'nx' from macOS](https://www.junian.dev/blog/macos-hidden-users/) <sub>September 25, 2026</sub>
 - [All Microsoft Teams Versions for Mac](https://www.junian.dev/downloads/all-microsoft-teams-versions-mac/) <sub>September 24, 2026</sub>
-- [Fixing Git Checkout Invalid Path Error on Windows](https://www.junian.dev/blog/git-error-invalid-path/) <sub>September 22, 2026</sub>
 <!-- blog feed end -->
 
 > [**See more**][blog]

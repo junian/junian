@@ -1,6 +1,7 @@
 ## Tech Blog
 
 <!-- feed start -->
+- `Oct 03, 2026` [How to Relaunch Finder App on Mac](https://www.junian.dev/blog/mac-finder-relaunch/)
 - `Oct 02, 2026` [Formatting SSD or HDD on Windows 11](https://www.junian.dev/blog/windows-format-ssd-hdd/)
 - `Oct 01, 2026` [All Firefox Versions for Mac](https://www.junian.dev/downloads/all-firefox-versions-mac/)
 - `Sep 30, 2026` [Changing Default Cloudflare Node.js Version](https://www.junian.dev/blog/change-cloudflare-node-version/)
