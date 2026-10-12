@@ -1,6 +1,14 @@
 ## Tech Blog
 
 <!-- feed start -->
+- `Oct 11, 2026` [How to "Ctrl + Alt + Del" or Open Task Manager on Mac](https://www.junian.dev/blog/mac-ctrl-alt-del-task-manager/)
+- `Oct 10, 2026` [Running Multiple pnpm Scripts with A Single Command](https://www.junian.dev/blog/pnpm-run-multiple-scripts/)
+- `Oct 09, 2026` [Microsoft Edge for Mac All Versions Download (2026)](https://www.junian.dev/downloads/microsoft-edge-mac/)
+- `Oct 08, 2026` [Microsoft OneNote for Mac All Versions Download (2026)](https://www.junian.dev/downloads/microsoft-onenote-mac/)
+- `Oct 07, 2026` [Microsoft Outlook for Mac All Versions Download (2026)](https://www.junian.dev/downloads/microsoft-outlook-mac/)
+- `Oct 06, 2026` [Microsoft PowerPoint for Mac All Versions Download (2026)](https://www.junian.dev/downloads/microsoft-powerpoint-mac/)
+- `Oct 05, 2026` [Microsoft Excel for Mac All Versions Download (2026)](https://www.junian.dev/downloads/microsoft-excel-mac/)
+- `Oct 04, 2026` [Microsoft Word for Mac All Versions Download (2026)](https://www.junian.dev/downloads/microsoft-word-mac/)
 - `Oct 03, 2026` [How to Relaunch Finder App on Mac](https://www.junian.dev/blog/mac-finder-relaunch/)
 - `Oct 02, 2026` [Formatting SSD or HDD on Windows 11](https://www.junian.dev/blog/windows-format-ssd-hdd/)
 - `Oct 01, 2026` [All Firefox Versions for Mac](https://www.junian.dev/downloads/all-firefox-versions-mac/)
@@ -277,4 +285,5 @@
 - `Dec 08, 2016` [Password Encryption using MD5 Hash Algorithm in C#](https://www.junian.dev/blog/csharp-md5/)
 - `Dec 07, 2016` [How To Make A 2D Animation using Timer with C++ .NET](https://www.junian.dev/blog/cpp-dotnet-2d-animation/)
 - `Dec 02, 2016` [How To Draw 2D Primitive Objects with C++ .NET](https://www.junian.dev/blog/cpp-dotnet-draw-2d-primitive/)
+- `Jan 01, 2001` [Fruit Shooter Game](https://www.junian.dev/fruit-shooter-game/)
 <!-- feed end -->

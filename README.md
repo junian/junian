@@ -35,16 +35,16 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [How to "Ctrl + Alt + Del" or Open Task Manager on Mac](https://www.junian.dev/blog/mac-ctrl-alt-del-task-manager/) <sub>October 11, 2026</sub>
+- [Running Multiple pnpm Scripts with A Single Command](https://www.junian.dev/blog/pnpm-run-multiple-scripts/) <sub>October 10, 2026</sub>
+- [Microsoft Edge for Mac All Versions Download (2026)](https://www.junian.dev/downloads/microsoft-edge-mac/) <sub>October 09, 2026</sub>
+- [Microsoft OneNote for Mac All Versions Download (2026)](https://www.junian.dev/downloads/microsoft-onenote-mac/) <sub>October 08, 2026</sub>
+- [Microsoft Outlook for Mac All Versions Download (2026)](https://www.junian.dev/downloads/microsoft-outlook-mac/) <sub>October 07, 2026</sub>
+- [Microsoft PowerPoint for Mac All Versions Download (2026)](https://www.junian.dev/downloads/microsoft-powerpoint-mac/) <sub>October 06, 2026</sub>
+- [Microsoft Excel for Mac All Versions Download (2026)](https://www.junian.dev/downloads/microsoft-excel-mac/) <sub>October 05, 2026</sub>
+- [Microsoft Word for Mac All Versions Download (2026)](https://www.junian.dev/downloads/microsoft-word-mac/) <sub>October 04, 2026</sub>
 - [How to Relaunch Finder App on Mac](https://www.junian.dev/blog/mac-finder-relaunch/) <sub>October 03, 2026</sub>
 - [Formatting SSD or HDD on Windows 11](https://www.junian.dev/blog/windows-format-ssd-hdd/) <sub>October 02, 2026</sub>
-- [All Firefox Versions for Mac](https://www.junian.dev/downloads/all-firefox-versions-mac/) <sub>October 01, 2026</sub>
-- [Changing Default Cloudflare Node.js Version](https://www.junian.dev/blog/change-cloudflare-node-version/) <sub>September 30, 2026</sub>
-- [Windows HEVC Video Extensions FREE Download](https://www.junian.dev/blog/windows-hevc-video-extensions/) <sub>September 29, 2026</sub>
-- [Visual Studio Code for Mac Older Download Links](https://www.junian.dev/downloads/vscode-for-mac/) <sub>September 28, 2026</sub>
-- [All Visual Studio Code Versions for Mac](https://www.junian.dev/downloads/all-visual-studio-code-versions-mac/) <sub>September 27, 2026</sub>
-- [Installing Latest Go Programming Language on Linux](https://www.junian.dev/blog/latest-go-installation/) <sub>September 26, 2026</sub>
-- [Removing Hidden User 'nx' from macOS](https://www.junian.dev/blog/macos-hidden-users/) <sub>September 25, 2026</sub>
-- [All Microsoft Teams Versions for Mac](https://www.junian.dev/downloads/all-microsoft-teams-versions-mac/) <sub>September 24, 2026</sub>
 <!-- blog feed end -->
 
 > [**See more**][blog]
