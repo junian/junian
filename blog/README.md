@@ -157,7 +157,7 @@
 - `Nov 24, 2025` [macOS Screen Mirror Keyboard Shortcut](https://www.junian.dev/blog/macos-screen-mirror-keyboard-shortcut/)
 - `Nov 21, 2025` [Visual Studio Professional Downloads - 2026, 2022, 2019, 2017, 2015, 2013](https://www.junian.dev/downloads/visual-studio-professional/)
 - `Nov 21, 2025` [Visual Studio Enterprise Downloads - 2026, 2022, 2019, 2017, 2015](https://www.junian.dev/downloads/visual-studio-enterprise/)
-- `Nov 19, 2025` [Download Microsoft Remote Desktop for Mac](https://www.junian.dev/downloads/remote-desktop-client-for-mac/)
+- `Nov 19, 2025` [Download Microsoft Remote Desktop for Mac - All Versions](https://www.junian.dev/downloads/remote-desktop-client-for-mac/)
 - `Nov 12, 2025` [Visual Studio Community Downloads - 2026, 2022, 2019, 2017, 2015, 2013](https://www.junian.dev/downloads/visual-studio-community/)
 - `Nov 04, 2025` [Microsoft SQL Server on Apple Silicon ARM64 Mac](https://www.junian.dev/blog/microsoft-sql-server-apple-silicon-mac/)
 - `Nov 02, 2025` [How to Change the Default Screenshot Folder on macOS](https://www.junian.dev/blog/macos-change-screenshot-folder/)
