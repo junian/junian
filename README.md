@@ -35,6 +35,7 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [Download Older Pages, Numbers, and Keynote from Mac App Store](https://www.junian.dev/blog/macos-old-pages-numbers-keynote-download-links/) <sub>October 12, 2026</sub>
 - [How to "Ctrl + Alt + Del" or Open Task Manager on Mac](https://www.junian.dev/blog/mac-ctrl-alt-del-task-manager/) <sub>October 11, 2026</sub>
 - [Running Multiple pnpm Scripts with A Single Command](https://www.junian.dev/blog/pnpm-run-multiple-scripts/) <sub>October 10, 2026</sub>
 - [Microsoft Edge for Mac All Versions Download (2026)](https://www.junian.dev/downloads/microsoft-edge-mac/) <sub>October 09, 2026</sub>
@@ -44,7 +45,6 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 - [Microsoft Excel for Mac All Versions Download (2026)](https://www.junian.dev/downloads/microsoft-excel-mac/) <sub>October 05, 2026</sub>
 - [Microsoft Word for Mac All Versions Download (2026)](https://www.junian.dev/downloads/microsoft-word-mac/) <sub>October 04, 2026</sub>
 - [How to Relaunch Finder App on Mac](https://www.junian.dev/blog/mac-finder-relaunch/) <sub>October 03, 2026</sub>
-- [Formatting SSD or HDD on Windows 11](https://www.junian.dev/blog/windows-format-ssd-hdd/) <sub>October 02, 2026</sub>
 <!-- blog feed end -->
 
 > [**See more**][blog]

@@ -1,6 +1,7 @@
 ## Tech Blog
 
 <!-- feed start -->
+- `Oct 12, 2026` [Download Older Pages, Numbers, and Keynote from Mac App Store](https://www.junian.dev/blog/macos-old-pages-numbers-keynote-download-links/)
 - `Oct 11, 2026` [How to "Ctrl + Alt + Del" or Open Task Manager on Mac](https://www.junian.dev/blog/mac-ctrl-alt-del-task-manager/)
 - `Oct 10, 2026` [Running Multiple pnpm Scripts with A Single Command](https://www.junian.dev/blog/pnpm-run-multiple-scripts/)
 - `Oct 09, 2026` [Microsoft Edge for Mac All Versions Download (2026)](https://www.junian.dev/downloads/microsoft-edge-mac/)
@@ -140,7 +141,6 @@
 - `Feb 02, 2026` [How to Set the Default Hugo Archetypes to the Next Day](https://www.junian.dev/blog/hugo-archetypes-default-date-next-day/)
 - `Feb 01, 2026` [Rotate Video with FFmpeg](https://www.junian.dev/blog/ffmpeg-rotate-video/)
 - `Feb 01, 2026` [January 2026 Monthly Report](https://www.junian.dev/blog/2026-01-monthly-report/)
-- `Jan 31, 2026` [Old Pages, Numbers, and Keynote iWork macOS App Download Links](https://www.junian.dev/blog/macos-old-pages-numbers-keynote-download-links/)
 - `Jan 30, 2026` [How to Deploy a Blazor WebAssembly Standalone App to GitHub Pages](https://www.junian.dev/blog/deploy-blazor-webassembly-standalone-to-github-pages/)
 - `Jan 29, 2026` [How to Check Disk Drive Allocation Unit Size on Windows](https://www.junian.dev/blog/windows-check-allocation-unit-size/)
 - `Jan 28, 2026` [Deploy a .NET 10 Blazor WebAssembly App to Cloudflare Pages](https://www.junian.dev/blog/deploy-blazor-to-cloudflare-pages/)
