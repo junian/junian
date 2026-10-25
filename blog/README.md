@@ -1,6 +1,8 @@
 ## Tech Blog
 
 <!-- feed start -->
+- `Oct 23, 2026` [Using git on Mac with Custom Certificate - eMudhra CA Fix](https://www.junian.dev/blog/mac-git-custom-ca-cert/)
+- `Oct 22, 2026` [Using cURL on Mac with Custom Certificate - eMudhra CA Fix](https://www.junian.dev/blog/mac-curl-custom-ca-cert/)
 - `Oct 12, 2026` [Download Older Pages, Numbers, and Keynote from Mac App Store](https://www.junian.dev/blog/macos-old-pages-numbers-keynote-download-links/)
 - `Oct 11, 2026` [How to "Ctrl + Alt + Del" or Open Task Manager on Mac](https://www.junian.dev/blog/mac-ctrl-alt-del-task-manager/)
 - `Oct 10, 2026` [Running Multiple pnpm Scripts with A Single Command](https://www.junian.dev/blog/pnpm-run-multiple-scripts/)

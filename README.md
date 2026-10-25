@@ -35,6 +35,8 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [Using git on Mac with Custom Certificate - eMudhra CA Fix](https://www.junian.dev/blog/mac-git-custom-ca-cert/) <sub>October 23, 2026</sub>
+- [Using cURL on Mac with Custom Certificate - eMudhra CA Fix](https://www.junian.dev/blog/mac-curl-custom-ca-cert/) <sub>October 22, 2026</sub>
 - [Download Older Pages, Numbers, and Keynote from Mac App Store](https://www.junian.dev/blog/macos-old-pages-numbers-keynote-download-links/) <sub>October 12, 2026</sub>
 - [How to "Ctrl + Alt + Del" or Open Task Manager on Mac](https://www.junian.dev/blog/mac-ctrl-alt-del-task-manager/) <sub>October 11, 2026</sub>
 - [Running Multiple pnpm Scripts with A Single Command](https://www.junian.dev/blog/pnpm-run-multiple-scripts/) <sub>October 10, 2026</sub>
@@ -43,8 +45,6 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 - [Microsoft Outlook for Mac All Versions Download (2026)](https://www.junian.dev/downloads/microsoft-outlook-mac/) <sub>October 07, 2026</sub>
 - [Microsoft PowerPoint for Mac All Versions Download (2026)](https://www.junian.dev/downloads/microsoft-powerpoint-mac/) <sub>October 06, 2026</sub>
 - [Microsoft Excel for Mac All Versions Download (2026)](https://www.junian.dev/downloads/microsoft-excel-mac/) <sub>October 05, 2026</sub>
-- [Microsoft Word for Mac All Versions Download (2026)](https://www.junian.dev/downloads/microsoft-word-mac/) <sub>October 04, 2026</sub>
-- [How to Relaunch Finder App on Mac](https://www.junian.dev/blog/mac-finder-relaunch/) <sub>October 03, 2026</sub>
 <!-- blog feed end -->
 
 > [**See more**][blog]
