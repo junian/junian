@@ -1,6 +1,8 @@
 ## Tech Blog
 
 <!-- feed start -->
+- `Oct 26, 2026` [Running Microsoft SQL Server with Docker Compose](https://www.junian.dev/blog/sql-server-docker-compose/)
+- `Oct 25, 2026` [September 2026 Monthly Growth Report](https://www.junian.dev/blog/2026-09-monthly-report/)
 - `Oct 24, 2026` [Office Reset Tool for Mac - All Versions Download](https://www.junian.dev/downloads/office-reset-mac/)
 - `Oct 23, 2026` [Using git on Mac with Custom Certificate - eMudhra CA Fix](https://www.junian.dev/blog/mac-git-custom-ca-cert/)
 - `Oct 22, 2026` [Using cURL on Mac with Custom Certificate - eMudhra CA Fix](https://www.junian.dev/blog/mac-curl-custom-ca-cert/)

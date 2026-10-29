@@ -35,6 +35,8 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [Running Microsoft SQL Server with Docker Compose](https://www.junian.dev/blog/sql-server-docker-compose/) <sub>October 26, 2026</sub>
+- [September 2026 Monthly Growth Report](https://www.junian.dev/blog/2026-09-monthly-report/) <sub>October 25, 2026</sub>
 - [Office Reset Tool for Mac - All Versions Download](https://www.junian.dev/downloads/office-reset-mac/) <sub>October 24, 2026</sub>
 - [Using git on Mac with Custom Certificate - eMudhra CA Fix](https://www.junian.dev/blog/mac-git-custom-ca-cert/) <sub>October 23, 2026</sub>
 - [Using cURL on Mac with Custom Certificate - eMudhra CA Fix](https://www.junian.dev/blog/mac-curl-custom-ca-cert/) <sub>October 22, 2026</sub>
@@ -43,8 +45,6 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 - [Running Multiple pnpm Scripts with A Single Command](https://www.junian.dev/blog/pnpm-run-multiple-scripts/) <sub>October 10, 2026</sub>
 - [Microsoft Edge for Mac All Versions Download (2026)](https://www.junian.dev/downloads/microsoft-edge-mac/) <sub>October 09, 2026</sub>
 - [Microsoft OneNote for Mac All Versions Download (2026)](https://www.junian.dev/downloads/microsoft-onenote-mac/) <sub>October 08, 2026</sub>
-- [Microsoft Outlook for Mac All Versions Download (2026)](https://www.junian.dev/downloads/microsoft-outlook-mac/) <sub>October 07, 2026</sub>
-- [Microsoft PowerPoint for Mac All Versions Download (2026)](https://www.junian.dev/downloads/microsoft-powerpoint-mac/) <sub>October 06, 2026</sub>
 <!-- blog feed end -->
 
 > [**See more**][blog]
