@@ -35,6 +35,8 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [October 2026 Monthly Growth Report](https://www.junian.dev/blog/2026-10-monthly-report/) <sub>November 02, 2026</sub>
+- [Do This to Stop Samsung Galaxy Phone Sending Ads](https://www.junian.dev/blog/samsung-galaxy-phone-without-ads/) <sub>November 01, 2026</sub>
 - [Running Microsoft SQL Server with Docker Compose](https://www.junian.dev/blog/sql-server-docker-compose/) <sub>October 26, 2026</sub>
 - [September 2026 Monthly Growth Report](https://www.junian.dev/blog/2026-09-monthly-report/) <sub>October 25, 2026</sub>
 - [Office Reset Tool for Mac - All Versions Download](https://www.junian.dev/downloads/office-reset-mac/) <sub>October 24, 2026</sub>
@@ -43,8 +45,6 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 - [Download Older Pages, Numbers, and Keynote from Mac App Store](https://www.junian.dev/blog/macos-old-pages-numbers-keynote-download-links/) <sub>October 12, 2026</sub>
 - [How to "Ctrl + Alt + Del" or Open Task Manager on Mac](https://www.junian.dev/blog/mac-ctrl-alt-del-task-manager/) <sub>October 11, 2026</sub>
 - [Running Multiple pnpm Scripts with A Single Command](https://www.junian.dev/blog/pnpm-run-multiple-scripts/) <sub>October 10, 2026</sub>
-- [Microsoft Edge for Mac All Versions Download (2026)](https://www.junian.dev/downloads/microsoft-edge-mac/) <sub>October 09, 2026</sub>
-- [Microsoft OneNote for Mac All Versions Download (2026)](https://www.junian.dev/downloads/microsoft-onenote-mac/) <sub>October 08, 2026</sub>
 <!-- blog feed end -->
 
 > [**See more**][blog]
