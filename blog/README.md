@@ -1,6 +1,7 @@
 ## Tech Blog
 
 <!-- feed start -->
+- `Nov 03, 2026` [Official Robots.txt AI Training Control for Websites (based on IETF)](https://www.junian.dev/blog/robots-txt-ai-training/)
 - `Nov 02, 2026` [October 2026 Monthly Growth Report](https://www.junian.dev/blog/2026-10-monthly-report/)
 - `Nov 01, 2026` [Do This to Stop Samsung Galaxy Phone Sending Ads](https://www.junian.dev/blog/samsung-galaxy-phone-without-ads/)
 - `Oct 26, 2026` [Running Microsoft SQL Server with Docker Compose](https://www.junian.dev/blog/sql-server-docker-compose/)
