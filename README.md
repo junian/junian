@@ -35,7 +35,7 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
-- [Official Robots.txt AI Training Control for Websites (based on IETF)](https://www.junian.dev/blog/robots-txt-ai-training/) <sub>November 03, 2026</sub>
+- [Official Robots.txt Entry to Block AI from Training on Website Content](https://www.junian.dev/blog/robots-txt-ai-training/) <sub>November 03, 2026</sub>
 - [October 2026 Monthly Growth Report](https://www.junian.dev/blog/2026-10-monthly-report/) <sub>November 02, 2026</sub>
 - [Do This to Stop Samsung Galaxy Phone Sending Ads](https://www.junian.dev/blog/samsung-galaxy-phone-without-ads/) <sub>November 01, 2026</sub>
 - [Running Microsoft SQL Server with Docker Compose](https://www.junian.dev/blog/sql-server-docker-compose/) <sub>October 26, 2026</sub>
