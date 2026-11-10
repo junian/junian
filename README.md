@@ -35,6 +35,8 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [WinForms .NET Apps - Demos and Examples](https://www.junian.dev/dotnet-winforms-apps/) <sub>November 05, 2026</sub>
+- [HashPeek - Open Source Cross-platform File Checksum Tool](https://www.junian.dev/hashpeek/) <sub>November 04, 2026</sub>
 - [Official Robots.txt Entry to Block AI from Training on Website Content](https://www.junian.dev/blog/robots-txt-ai-training/) <sub>November 03, 2026</sub>
 - [October 2026 Monthly Growth Report](https://www.junian.dev/blog/2026-10-monthly-report/) <sub>November 02, 2026</sub>
 - [Do This to Stop Samsung Galaxy Phone Sending Ads](https://www.junian.dev/blog/samsung-galaxy-phone-without-ads/) <sub>November 01, 2026</sub>
@@ -43,8 +45,6 @@ I'm **Junian**, an **experienced software engineer** from [East Java][east-java]
 - [Office Reset Tool for Mac - All Versions Download](https://www.junian.dev/downloads/office-reset-mac/) <sub>October 24, 2026</sub>
 - [Using git on Mac with Custom Certificate - eMudhra CA Fix](https://www.junian.dev/blog/mac-git-custom-ca-cert/) <sub>October 23, 2026</sub>
 - [Using cURL on Mac with Custom Certificate - eMudhra CA Fix](https://www.junian.dev/blog/mac-curl-custom-ca-cert/) <sub>October 22, 2026</sub>
-- [Download Older Pages, Numbers, and Keynote from Mac App Store](https://www.junian.dev/blog/macos-old-pages-numbers-keynote-download-links/) <sub>October 12, 2026</sub>
-- [How to "Ctrl + Alt + Del" or Open Task Manager on Mac](https://www.junian.dev/blog/mac-ctrl-alt-del-task-manager/) <sub>October 11, 2026</sub>
 <!-- blog feed end -->
 
 > [**See more**][blog]
